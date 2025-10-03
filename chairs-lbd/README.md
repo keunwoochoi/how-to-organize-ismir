@@ -32,7 +32,6 @@ General advice emphasizes scalable, transparent practices that can adapt to futu
 - This Year's Choices (2025 example)
   - Capacity: 75 posters (first-come-first-served)
   - Submission System: CMT (Author console → LBD); consider OpenReview next year
-  - Video size: clarify one policy (conflict noted between 100MB email vs 350MB web)
 
 ## Rationale & Consequences
 Consistency in policies and communications prevents misunderstandings and operational issues, ensuring a fair and efficient process for all participants. Without it, the session risks becoming chaotic, with increased support needs and potential inequities.
