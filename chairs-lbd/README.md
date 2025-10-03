@@ -133,4 +133,9 @@ Common pitfalls arise from miscommunications, resource constraints, and process 
 Key resources include source documents for detailed policies and Slack channels for historical discussions. These provide context for decisions and can be referenced for future updates.
 
 - Related docs: `_source_related_docs/chairs-lbd/`
+  - Tips for LBD: CMT settings, procedures for paper review and notification, timeline, etc.
+  - LBD chair meeting: Minutes of LBD Chair meetings
+  - Acceptance Letter, Rejection Letter, Reminder Emails: Email templates sent from CMT
+  - SubmittedPapers: Paper status for review, camera-ready, and equipment
+  - Registration: Check if at least one author is registered for each paper
 - Slack: `_source_slack_data/slack (organizers) - chats/chairs-lbd/`
