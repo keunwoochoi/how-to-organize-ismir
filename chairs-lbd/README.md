@@ -92,9 +92,12 @@ A phased timeline ensures steady progress from planning to execution, with key m
   - Align on policy; update templates, review criteria, and submission forms
   - Decide screening cadence (weekly/biweekly) and comms plan
 - Month -6 to -4 (Apr to Jun)
-  - Publish CFP (web/email); open submission system
-  - Start screening; prepare accept/reject email templates
+  - Publish CFP (web/email)
+  - Prepare accept/reject email templates
   - Confirm poster board counts, layout, power availability with Local Org
+- Month -3 (Jul)
+  - Open submission system
+  - Start screening
 - Month -3 to -2 (Jul to Aug)
   - Monitor capacity; announce early closure if near cap
   - Camera-ready deadline; validate poster/thumbnail/video specs
