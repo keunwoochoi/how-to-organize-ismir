@@ -26,12 +26,11 @@ General advice emphasizes scalable, transparent practices that can adapt to futu
 
 - General Advice
   - Define capacity as a function of venue poster boards and safety margins (not a fixed number).
-  - Prefer an open, auditable submission system (OpenReview) with clear forms and public timelines.
   - Choose screening cadence (rolling vs batch) to match capacity risk and staffing.
   - Avoid resubmission for simplicity; instead provide clear accept-with-notes guidance.
 - This Year's Choices (2025 example)
   - Capacity: 75 posters (first-come-first-served)
-  - Submission System: CMT (Author console → LBD); consider OpenReview next year
+  - Submission System: CMT (Author console → LBD)
 
 ## Rationale & Consequences
 Consistency in policies and communications prevents misunderstandings and operational issues, ensuring a fair and efficient process for all participants. Without it, the session risks becoming chaotic, with increased support needs and potential inequities.
@@ -46,11 +45,7 @@ Major decisions for LBD involve balancing efficiency, fairness, and resources, o
 ### 1) Submission System (owned by Scientific Program; LBD impacted)
 - Context: Platform affects forms, transparency, workflows, and author experience
 - Decision owner(s): Scientific Program Chairs (coordinate with LBD, Web/Design, General Chairs)
-- Options considered: CMT; OpenReview (moderated venue); hybrid
-- 2025 decision: CMT; OpenReview recommended for future
-- Pros/Cons (impact on LBD):
-  - CMT: simpler setup, familiar; less transparent; limited form flexibility
-  - OpenReview: transparent; flexible; requires moderation and earlier setup
+- 2025 decision: CMT
 - Recommendations: Engage Scientific Program by Month -7; align forms/specs across web/email/system
 
 ### 2) Screening Model (Rolling vs Batch; Resubmission Policy)
@@ -112,7 +107,6 @@ Successful execution relies on timely input from other teams, such as venue deta
 
 - Poster capacity, layout, power availability (Local Organization)
 - Website updates (Web & Design)
-- Submission system configuration (OpenReview/CMT admin)
 - Volunteer staffing for on-site logistics (Volunteers)
 
 ## Stakeholders
