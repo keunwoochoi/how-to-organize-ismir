@@ -33,7 +33,7 @@ General advice emphasizes proactive planning and attendee-centric logistics, ada
 - This Year's Choices (2025 example)
   - Logistics: Shuttles from 3 areas; food for 350-450; LED screens and WiFi.
   - Events: Welcome reception, banquet, jam session; awards and gifts.
-  - Tools: Checklists; PCO coordination; volunteer assignments.
+  - Tools: Checklists; Professional Conference Organizer(PCO) agency coordination; volunteer assignments.
   - KAIST venue benefits: Fresh air, outdoor spaces, budget savings; isolated location led to high attendance rate (fewer distractions compared to city venues like Seoul).
   - Unlimited coffee/water/snacks all day: Very popular and highly appreciated by attendees.
 
@@ -53,6 +53,15 @@ Detailed planning and coordination prevent disruptions, ensuring attendee satisf
 - 2025 decision: KAIST campus; multiple buildings for sessions.
 - Pros/Cons: On-campus simplifies logistics; off-campus offers amenities. Isolated venues (like KAIST) foster higher attendance and engagement as attendees stay focused on conference activities rather than exploring city attractions. Fresh air and outdoor spaces enhance experience. Budget savings vs city hotels.
 - Recommendations: Scout early; test accessibility. Consider venue isolation as attendance strategy – suburban/campus venues may increase session participation compared to downtown locations.
+
+#### 1.1) Additional Advice for Venue Planning (from 2025 decision)
+
+When selecting venues, ensure that the spaces can support the full range of conference activities, from tutorials to social events. These four venues do not necessarily need to be separate; depending on the local infrastructure, overlapping use of spaces is also possible.
+
+- Tutorials: Secure a site with at least three lecture rooms that can run simultaneously. A registration desk should be located nearby for participant check-in and on-site support.
+- Main Conference (Oral & Poster Sessions): The main hall should host oral sessions, keynotes, industry talks, music programs, and other sessions or events, with a separate poster area large enough for dense Late-Breaking Demo (LBD) sessions. Allocate sponsor booths near posters or coffee break zones, and ensure lunch options are conveniently accessible to keep the schedule efficient.
+- Welcome Reception: Select a venue that allows casual interaction with light meals (finger foods and drinks). Standing tables are highly recommended to encourage mingling.
+- Banquet & Jam Session: Requires a stage and sound system suitable for performances, as well as dining capacity for attendees. Check whether the venue allows late-hour access for evening programs.
 
 ### 2) Shuttle and Transportation
 - Context: Ensure easy access for attendees.
@@ -85,6 +94,19 @@ Detailed planning and coordination prevent disruptions, ensuring attendee satisf
 - 2025 decision: One-day shifts; role-specific (e.g., tech helpers).
 - Pros/Cons: One-day lowers commitment; multi provides continuity.
 - Recommendations: Match skills; provide training.
+
+#### 5.1) Additional Notes on Local Volunteer Collaboration
+
+Local Organization Chairs should work closely with both general volunteers and local volunteers who are familiar with the venue and its surroundings. These local members play a vital role in bridging communication between the professional event management company (PCO) and the ISMIR organizing team, especially in areas where detailed local context is essential.
+
+Typical domains requiring local volunteer involvement include:
+- Transportation guidance and venue navigation for attendees.
+- Stage and equipment management for music programs or jam sessions.
+- Presentation material management, including file handling and screen setup.
+- Slack or online communication support for quick issue resolution.
+
+From ISMIR 2025, a key lesson was the need for dedicated local volunteers to manage presentation materials.
+While session chairs and general volunteers supported timing and transitions, the actual handling of presentation files—downloading, format conversion (if needed), and last-minute adjustments—required trained local volunteers familiar with the AV setup and workflow with the PCO and technical staff.
 
 ### 6) Technical and Safety Logistics
 - Context: Ensure functional and safe environment.
