@@ -12,15 +12,6 @@ LBD chairs are tasked with managing the entire lifecycle of the session, from in
 - Oversee the end-to-end LBD workflow: submission, screening/selection, communications, and on-site execution.
 - Keep policies coherent across channels and deliver a smooth author/presenter experience.
 
-## Scope & Responsibilities
-Core responsibilities involve defining policies, managing submissions, and coordinating logistics to maintain fairness and efficiency. Chairs must ensure all processes align with conference goals while handling operational details independently.
-
-- Define and publish policy (capacity, format, screening cadence, resubmission policy)
-- Keep specs consistent across web, email CFP, and submission system pages
-- Operate screening; record decisions; open camera-ready; email authors
-- Coordinate venue layout, poster boards, power/tables with Local Organization; scheduling with General Chairs
-- Ensure delivery/validation of assets (poster, thumbnail, optional video); prepare on-site logistics
-
 ## General Advice vs This Year's Choices
 General advice emphasizes scalable, transparent practices that can adapt to future conferences, while this year's choices reflect specific 2025 decisions based on available resources and constraints. This separation helps distinguish timeless strategies from contextual implementations.
 
@@ -56,7 +47,7 @@ Major decisions for LBD involve balancing efficiency, fairness, and resources, o
 
 ### 2) Screening Model (Rolling vs Batch; Resubmission Policy)
 - Context: Capacity cap and staffing; need predictable throughput and fairness
-- Options: Rolling screening with periodic decisions; Single batch deadline; Two-phase (EOI → final)
+- Options: Rolling screening with periodic decisions (2025 LBD); Single batch deadline (2024 LBD); Two-phase (2019 LBD)
 - 2025 decision: Rolling screening; no resubmission after rejection
 - Pros/Cons: Rolling smooths inflow; Batch concentrates load; Two-phase improves forecasting but adds overhead
 - Recommendations: Weekly decision SLA; templates; reserve a few slots for late-breaking demos
@@ -108,6 +99,7 @@ A phased timeline ensures steady progress from planning to execution, with key m
 ## Dependencies & Blockers
 Successful execution relies on timely input from other teams, such as venue details and system setup, which can delay planning if not coordinated early. Identifying these dependencies upfront helps mitigate risks and ensures smooth operations.
 
+- Paper template (Publication Chairs)
 - Poster capacity, layout, power availability (Local Organization)
 - Website updates (Web & Design)
 - Submission system configuration (OpenReview/CMT admin)
@@ -128,6 +120,7 @@ Common pitfalls arise from miscommunications, resource constraints, and process 
 - Capacity reached before deadline; pre-draft closure messaging
 - Screening backlog near deadline; enforce cadence
 - Power/table requests unmanaged; capture via submission form early
+- Word template leads to inconsistent format across platforms (e.g. Google Doc, Pages, etc)
 
 ## Links
 Key resources include source documents for detailed policies and Slack channels for historical discussions. These provide context for decisions and can be referenced for future updates.
