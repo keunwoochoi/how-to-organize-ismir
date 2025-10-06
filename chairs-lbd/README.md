@@ -17,13 +17,11 @@ General advice emphasizes scalable, transparent practices that can adapt to futu
 
 - General Advice
   - Define capacity as a function of venue poster boards and safety margins (not a fixed number).
-  - Prefer an open, auditable submission system (OpenReview) with clear forms and public timelines.
   - Choose screening cadence (rolling vs batch) to match capacity risk and staffing.
   - Avoid resubmission for simplicity; instead provide clear accept-with-notes guidance.
 - This Year's Choices (2025 example)
   - Capacity: 75 posters (first-come-first-served)
-  - Submission System: CMT (Author console → LBD); consider OpenReview next year
-  - Video size: clarify one policy (conflict noted between 100MB email vs 350MB web)
+  - Submission System: CMT (Author console → LBD)
 
 ## Rationale & Consequences
 Consistency in policies and communications prevents misunderstandings and operational issues, ensuring a fair and efficient process for all participants. Without it, the session risks becoming chaotic, with increased support needs and potential inequities.
@@ -38,11 +36,7 @@ Major decisions for LBD involve balancing efficiency, fairness, and resources, o
 ### 1) Submission System (owned by Scientific Program; LBD impacted)
 - Context: Platform affects forms, transparency, workflows, and author experience
 - Decision owner(s): Scientific Program Chairs (coordinate with LBD, Web/Design, General Chairs)
-- Options considered: CMT; OpenReview (moderated venue); hybrid
-- 2025 decision: CMT; OpenReview recommended for future
-- Pros/Cons (impact on LBD):
-  - CMT: simpler setup, familiar; less transparent; limited form flexibility
-  - OpenReview: transparent; flexible; requires moderation and earlier setup
+- 2025 decision: CMT
 - Recommendations: Engage Scientific Program by Month -7; align forms/specs across web/email/system
 
 ### 2) Screening Model (Rolling vs Batch; Resubmission Policy)
@@ -83,9 +77,12 @@ A phased timeline ensures steady progress from planning to execution, with key m
   - Align on policy; update templates, review criteria, and submission forms
   - Decide screening cadence (weekly/biweekly) and comms plan
 - Month -6 to -4 (Apr to Jun)
-  - Publish CFP (web/email); open submission system
-  - Start screening; prepare accept/reject email templates
+  - Publish CFP (web/email)
+  - Prepare accept/reject email templates
   - Confirm poster board counts, layout, power availability with Local Org
+- Month -3 (Jul)
+  - Open submission system
+  - Start screening
 - Month -3 to -2 (Jul to Aug)
   - Monitor capacity; announce early closure if near cap
   - Camera-ready deadline; validate poster/thumbnail/video specs
@@ -102,7 +99,6 @@ Successful execution relies on timely input from other teams, such as venue deta
 - Paper template (Publication Chairs)
 - Poster capacity, layout, power availability (Local Organization)
 - Website updates (Web & Design)
-- Submission system configuration (OpenReview/CMT admin)
 - Volunteer staffing for on-site logistics (Volunteers)
 
 ## Stakeholders
@@ -127,3 +123,12 @@ Key resources include source documents for detailed policies and Slack channels 
 
 - Related docs: `_source_related_docs/chairs-lbd/`
 - Slack: `_source_slack_data/slack (organizers) - chats/chairs-lbd/`
+
+## Documents
+Part of the documents created by the 2025 LBD Chairs. They are stored in `_source_related_docs/chairs-lbd/`.
+
+- Tips for LBD: CMT settings, procedures for paper review and notification, timeline, etc.
+- LBD chair meeting: Minutes of LBD Chair meetings
+- Acceptance Letter, Rejection Letter, Reminder Emails: Email templates sent from CMT
+- SubmittedPapers: Paper status for review, camera-ready, and equipment
+- Registration: Check if at least one author is registered for each paper
