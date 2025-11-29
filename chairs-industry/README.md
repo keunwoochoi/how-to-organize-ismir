@@ -1,18 +1,20 @@
 # Industry Chairs Guide
 
-## Goal
+## General Guidelines (Timeless)
+
+### Goal
 The Industry Program fosters collaboration between academia and industry by facilitating sponsor engagements, networking events, and knowledge sharing. It bridges MIR research with practical applications, enhancing conference value through sponsorships, presentations, and career opportunities.
 
 - Organize sponsor sessions, booths, presentations, and networking to connect industry with the MIR community.
 - Promote industry-academia interactions for instance, (but not limited to) through meetups, job boards, or lightning talks.
 
-## Chairs' Goal
+### Chairs' Goal
 Industry Chairs execute industry-related events flawlessly, and maximize value for 1) sponsors, 2) other industry participants and 3) attendees, in close collaboration with the sponsors chair.
 
 - Organize industry sessions, panels, and meetups for networking and knowledge exchange between industry and academia, senior industry MIR researchers in the field and the students.
 - Facilitate career opportunities via job boards, CV pools, and presentations.
 
-## Scope & Responsibilities
+### Scope & Responsibilities
 Core duties encompass event organization, and stakeholder coordination to ensure smooth operations and mutual benefits. Chairs handle logistics, communications while aligning with conference goals.
 
 - Manage sponsor communications necessary for event organization (but not limited to), booth assignments, and presentation logistics.
@@ -20,89 +22,61 @@ Core duties encompass event organization, and stakeholder coordination to ensure
 - Implement and coordinate job boards, CV pools, and networking opportunities.
 - Ensure compliance with policies, deadlines, and venue constraints.
 
-## General Advice vs This Year's Choices
-General advice promotes fairness, efficiency, and inclusivity in sponsor and event management, while this year's choices address 2025's specific logistics and formats. This separation allows adaptation to varying conference scales and resources.
+### General Advice
+- Standardize presentation formats and lengths to simplify operations.
+- Use raffles for booth assignments to ensure fairness.
+- Promote job boards and CV pools through multiple channels for maximum reach.
+- Request volunteers for time management and event moderation.
 
-- General Advice
-  - Standardize presentation formats and lengths to simplify operations.
-  - Use raffles for booth assignments to ensure fairness.
-  - Promote job boards and CV pools through multiple channels for maximum reach.
-  - Request volunteers for time management and event moderation.
-- This Year's Choices (2025 example)
-  - Presentation lengths: 8min for platinum, 4min for silver; slides due Sep 22.
-  - Booths: Raffle-based; 1-4 days based on tier.
-  - Lightning Talks: 1min, 1-slide; 25 slots; apps due Sep 21.
-  - Job/CV: Platinum access; shared until Oct 10.
-  - Panel discussion: We couldn't fit it in due to the time constraint.
-  - All submission system is implemented using Google Forms
+### Key Decisions (Framework)
+These are the recurring strategic choices every Industry Chair must make.
 
-## Rationale & Consequences
+#### 1) Event Formats and Scheduling
+- **Context**: Fit industry events into conference schedule without conflicts.
+- **Decision owner(s)**: Industry Chairs (coordinate with Sponsor Chair, General Chair(s), Local Org).
+- **Options**: 
+    - *Dedicated Sessions*: High focus, but competes with other tracks if parallel.
+    - *Integrated*: Industry talks mixed with papers. High exposure, but risks dilution.
+    - *Hybrid*: In-person events with streaming/recording.
+
+#### 2) Presentation and Booth Logistics
+- **Context**: Manage deadlines, formats, and resources for sponsor deliverables.
+- **Decision owner(s)**: Industry Chairs (coordinate with Tech, Sponsor Chair, Local Org).
+- **Options**: 
+    - *Single Format (PDF)*: Safe, reliable, but static.
+    - *Multiple Formats (PPT, Keynote)*: Flexible for sponsors, but high risk of font/video issues.
+    - *Strict vs Flexible Deadlines*: Strict ensures QC; flexible pleases sponsors but risks chaos.
+
+#### 3) Job Boards and CV Pools
+- **Context**: Facilitate career connections while protecting privacy.
+- **Decision owner(s)**: Industry Chairs (coordinate with General Chairs).
+- **Options**: 
+    - *Tier-Restricted*: Only top sponsors get CV access (High value).
+    - *Open*: All sponsors get access (Inclusive).
+    - *Hosted vs Self-hosted*: Google Drive vs specialized platforms.
+
+#### 4) Lightning Talks and Networking
+- **Context**: Encourage participation without overwhelming schedule.
+- **Decision owner(s)**: Industry Chairs.
+- **Options**: 
+    - *Capped Slots*: Ensures quality and timing (e.g., 25 slots).
+    - *Unlimited*: High engagement, but high risk of overrun.
+
+#### 5) Volunteer Management
+- **Context**: Ensure smooth event flow with adequate support.
+- **Decision owner(s)**: Industry Chairs (coordinate with Volunteers).
+- **Options**: 
+    - *Chair-led*: Chairs do everything (High control, high burnout).
+    - *Volunteer-heavy*: Volunteers moderate sessions (Scalable, requires training).
+
+### Rationale & Consequences
 Clear policies and deadlines prevent misunderstandings and ensure fair access, maintaining sponsor satisfaction and event quality. Inconsistencies can lead to disputes, missed opportunities, and reduced participation.
 
 - Why consistency matters: Ensures equitable treatment and smooth execution for all stakeholders.
 - If inconsistent/not done: Sponsors may feel undervalued; events may overrun or lack structure.
 - Alternatives: Tiered deadlines; virtual-only elements if in-person limited.
 
-## Topics to Discuss / Decisions to Make
-
-### 1) Event Formats and Scheduling
-- Context: Fit industry events into conference schedule without conflicts.
-- Decision owner(s): Industry Chairs (coordinate with Sponsor Chair, General Chair(s), Local Org).
-- Options: Dedicated sessions vs integrated; in-person vs hybrid emphasis.
-- 2025 decision: Dedicated industry session and meetup; hybrid with live elements.
-- Pros/Cons: Dedicated builds focus; integrated increases exposure but risks dilution.
-- Recommendations: Early scheduling coordination; test formats in planning.
-
-### 2) Presentation and Booth Logistics
-- Context: Manage deadlines, formats, and resources for sponsor deliverables.
-- Decision owner(s): Industry Chairs (coordinate with Tech, Sponsor Chair, Local Org).
-- Options: Single format vs multiple; strict vs flexible deadlines.
-- 2025 decision: Allowing many formats (PPTX, Keynote, PDF, Google Slide) booth info due Sep 12, slides Sep 22. - extra leniency has been applied for late update and submissions (following last year's convention)
-- Pros/Cons: Standardized reduces issues; flexible accommodates needs but increases workload.
-- Recommendations: Implementing integrated format (i.e., PPTX); enforce deadlines early.
-
-### 3) Job Boards and CV Pools
-- Context: Facilitate career connections while protecting privacy.
-- Decision owner(s): Industry Chairs (coordinate with General Chairs).
-- Options: Open to all vs tier-restricted; hosted vs self-hosted files.
-- 2025 decision: Platinum access; self-hosted PDFs; available until Oct 10.
-- Pros/Cons: Restricted access ensures value; open increases inclusivity but risks misuse.
-- Recommendations: Clear guidelines; anonymous opt-outs.
-
-### 4) Lightning Talks and Networking
-- Context: Encourage participation without overwhelming schedule.
-- Decision owner(s): Industry Chairs.
-- Options: Unlimited vs capped; themed vs open.
-- 2025 decision: 1min, 1-slide; 25 slots; open to industry attendees.
-- Pros/Cons: Capped ensures quality; unlimited boosts engagement but risks time overruns.
-- Recommendations: Promote via Slack; rehearse format. Improving focus of crowd as food/drinks could be served at the same time in the open space - distract many ppl. just eating and chatting while talks are given
-
-### 5) Volunteer Management and Execution
-- Context: Ensure smooth event flow with adequate support.
-- Decision owner(s): Industry Chairs (coordinate with Volunteers).
-- Options: Chair-led vs volunteer-heavy; training vs on-the-fly.
-- 2025 decision: Request volunteers for moderation; provide guidelines.
-- Pros/Cons: Volunteers reduce load; lack of training risks errors.
-- Recommendations: Recruit early; provide checklists.
-
-## Suggested Timeline (assuming October main conference)
-A structured timeline aligns industry activities with conference phases, ensuring timely preparation and execution. Early focus on planning prevents bottlenecks, while later phases handle logistics and follow-up.
-
-- Month -8 to -4 (Feb to Jun)
-  - Brainstorm events
-  - Coordinate with Local Org on booth and venue constraints.
-  - Prepare presentation and event formats
-- Month -3 to -2 (Jul to Aug)
-  - Assign booths via raffle; publish deadlines.
-  - Collect sponsor deliverables; confirm job/CV access; finalize schedules.
-  - Recruit volunteers; test event setups.
-- Month -1 to 0 (Conference week) (Sep to Oct)
-  - Oversee booth setups, presentations, and meetups; manage interactions.
-  - Facilitate networking; handle on-site issues.
-- Post-conference (+1–2 weeks) (Oct to Nov)
-  - Debrief; metrics (sponsorships, attendance); update guide.
-
-## Dependencies & Blockers
+### Dependencies & Blockers
 Timely inputs from sponsors and teams are essential for material preparation and venue setup, which can delay events if not managed. Early alignment ensures all elements integrate smoothly.
 
 - Venue and logistics support (Local Organization).
@@ -112,7 +86,7 @@ Timely inputs from sponsors and teams are essential for material preparation and
 
 Anecdotally, organizing everything after the sponsorship closed can be too tight. It can be better if industry chairs can think of ways to already work with sponsors who are already confirmed before the deadline.
 
-## Stakeholders
+### Stakeholders
 Collaboration with key teams ensures comprehensive support for industry events and sponsor satisfaction. Regular communication maintains alignment and resource efficiency.
 
 - General Chairs for policy, finance, and overall coordination.
@@ -123,7 +97,7 @@ Collaboration with key teams ensures comprehensive support for industry events a
 - Social Media for promoting job boards and events.
 - Volunteers for event moderation and assistance.
 
-## Caveats / Pitfalls
+### Caveats / Pitfalls
 Unclear policies or missed deadlines can frustrate sponsors and disrupt events, leading to reduced engagement or disputes. Proactive management mitigates these through clear communication and flexibility.
 
 - Sponsor expectation mismatches on benefits or deadlines.
@@ -131,8 +105,61 @@ Unclear policies or missed deadlines can frustrate sponsors and disrupt events, 
 - Job/CV privacy issues; ensure secure handling.
 - Overloaded schedule; strict time enforcement.
 
-## Links
-Essential resources include sponsor handbooks for operational details and Slack channels for real-time coordination. These support decision-making and historical reference.
+### Links (Internal Note)
+> [!NOTE]
+> These paths are for internal reference during the documentation process and point to source materials used to write this guide.
 
 - Related docs: `_source_related_docs/chairs-industry/`
 - Slack: `_source_slack_data/slack (organizers) - chats/chairs-industry/`
+
+---
+
+## 2025 Decisions & Outcomes
+
+### This Year's Choices (2025)
+- **Presentation lengths**: 8min for platinum, 4min for silver; slides due Sep 22.
+- **Booths**: Raffle-based; 1-4 days based on tier.
+- **Lightning Talks**: 1min, 1-slide; 25 slots; apps due Sep 21.
+- **Job/CV**: Platinum access; shared until Oct 10.
+- **Panel discussion**: We couldn't fit it in due to the time constraint.
+- **Submission System**: All submission system is implemented using Google Forms
+
+### 2025 Decisions & Outcomes
+
+#### 1) Event Formats
+- **2025 Decision**: Dedicated industry session and meetup; hybrid with live elements.
+- **Outcome**: Good focus, but panel discussion was cut due to time.
+
+#### 2) Presentation and Booth Logistics
+- **2025 Decision**: Allowed many formats (PPTX, Keynote, PDF, Google Slide).
+- **Outcome**: Extra leniency applied for late updates.
+- **Recommendation**: Enforce integrated format (PPTX) and deadlines early.
+
+#### 3) Job Boards
+- **2025 Decision**: Platinum access; self-hosted PDFs; available until Oct 10.
+- **Outcome**: Value preserved for top tier.
+
+#### 4) Lightning Talks
+- **2025 Decision**: 1min, 1-slide; 25 slots; open to industry attendees.
+- **Lesson**: Distractions from food/drinks in open space were an issue.
+
+#### 5) Volunteer Management
+- **2025 Decision**: Request volunteers for moderation; provide guidelines.
+
+### Suggested Timeline (based on 2025 Schedule)
+A structured timeline aligns industry activities with conference phases, ensuring timely preparation and execution. Early focus on planning prevents bottlenecks, while later phases handle logistics and follow-up.
+
+- **Month -8 to -4 (Feb to Jun)**
+  - Brainstorm events
+  - Coordinate with Local Org on booth and venue constraints.
+  - Prepare presentation and event formats
+- **Month -3 to -2 (Jul to Aug)**
+  - Assign booths via raffle; publish deadlines.
+  - Collect sponsor deliverables; confirm job/CV access; finalize schedules.
+  - Recruit volunteers; test event setups.
+- **Month -1 to 0 (Conference week) (Sep to Oct)**
+  - Oversee booth setups, presentations, and meetups; manage interactions.
+  - Facilitate networking; handle on-site issues.
+- **Post-conference (+1–2 weeks) (Oct to Nov)**
+  - Debrief; metrics (sponsorships, attendance); update guide.
+

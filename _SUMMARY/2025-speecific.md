@@ -5,9 +5,9 @@ This document records the specific decisions, data, and context from the 2025 co
 ## 1. Core Organization & Strategy
 
 ### Overall Timeline & Milestones
-*   **Chairs**: 3 General Chairs (Keunwoo, Juhan, Dasaem).
+*   **Chairs**: 3 General Chairs (Juhan, Dasaem, Keunwoo).
     *   **Remote Chair**: Keunwoo joined a year late and worked remotely from New York. This worked fine for many tasks but required strong local coordination from the other two.
-*   **Satellite Events**: None in 2025. One GC handled this workload, which contributed to overworking.
+*   **Satellite Events**: No chairs in 2025. One GC handled this workload, which contributed to overworking.
     *   **Recommendation**: Appoint a dedicated Satellite Chair. The workload is distinct enough to warrant it.
 
 ### Budget & Finance
@@ -32,9 +32,11 @@ This document records the specific decisions, data, and context from the 2025 co
 *   **Events**:
     *   **Welcome Reception**: Casual interaction with light meals.
     *   **Banquet**: Seated dinner. Finding a venue in Daejeon that fit the budget and vibe was difficult; required extensive scouting.
-    *   **K-Culture Night**: Special event.
+    *   **K-Culture Night**: Added based on attendee interest. A special event showcasing local culture.
 *   **Transportation**:
-    *   **Shuttles**: Buses ran from 3 hotel areas with fixed schedules. Essential due to campus isolation.
+    *   **Shuttles**: Buses ran from 3 hotel areas with fixed schedules.
+    *   **Outcome**: Essential. It was nearly impossible for non-Korean speakers to grab taxis during rush hour in Daejeon.
+    *   **Lesson**: Do not rely on public transit/taxis for isolated venues, especially if there is a language barrier.
 *   **Registration**:
     *   **Staffing**: Staffed desks.
     *   **Badges**: Physical badges with stickers for social signals (e.g., "No Photos").
@@ -102,6 +104,7 @@ This document records the specific decisions, data, and context from the 2025 co
 *   **Session Management**:
     *   **Kill Switch**: Session chairs were briefed on the risk of YouTube copyright strikes during music demos.
     *   **Status Updates**: Chairs manually updated paper statuses in the system to avoid bulk-edit disasters.
+
 ### Publication & Proceedings
 *   **Timeline**:
     *   **Published**: Nov 21 (Conference ended Sep 26). Total ~8 weeks.
@@ -157,9 +160,8 @@ This document records the specific decisions, data, and context from the 2025 co
 *   **Capacity**: Capped at 75 (first-come-first-served).
 *   **System**: CMT (Author console -> LBD).
 *   **Screening**: Rolling basis. No resubmissions allowed.
+    *   **Outcome**: Smoothed the workload for chairs.
 *   **Specs**: A0 poster required. Video optional (conflicting specs noted between web/email).
-
-
 
 ### Industry & Sponsorship
 *   **Sponsorship**:
@@ -192,6 +194,14 @@ This document records the specific decisions, data, and context from the 2025 co
     *   **Accommodation**: Shared twin rooms. Preferences collected via Google Form.
     *   **Confirmation**: Email with embedded form + LinkedIn outreach for non-responders.
 
+### Volunteers
+*   **Roles**:
+    *   **Specialization**: We required English/Korean proficiency for specific roles (Registration, Info Desk).
+    *   **Outcome**: Crucial for bridging the gap between the PCO (local staff) and attendees.
+*   **Shifts**:
+    *   **One-day**: We used one-day shifts.
+    *   **Outcome**: Volunteers preferred this as it allowed them to enjoy the conference on off-days.
+
 ## 5. Communication & Operations
 
 ### Website
@@ -203,6 +213,9 @@ This document records the specific decisions, data, and context from the 2025 co
     *   **Data**: Tutorial schedules were handled via CSV imports to generate tables.
 
 ### Social Media
+*   **Design Decision**:
+    *   **Ratio**: We used a 4:3 image ratio for all assets.
+    *   **Why**: It crops correctly on Instagram (square), Twitter (landscape), and LinkedIn without needing 3 separate versions.
 *   **The "June Blitz"**:
     *   **Context**: We had a backlog of announcements in June.
     *   **Execution**: We executed a 6-step "Waterfall" over one week:
