@@ -1,7 +1,14 @@
 # Publication Chairs Guide (grounded in Slack discussions)
 
+(Also see [PROCEEDINGS.md](PROCEEDINGS.md) for the post-conference production guide!)
+
 ## Goal
-Maintain accurate, author-facing information and deliverables workflows. Coordinate poster specs, fun-fact submissions, reminders for missing assets, and slide deck logistics in sync with session operations.
+This document covers the **Author Liaison** responsibilities (pre-conference & on-site). For the **Proceedings Production** (post-conference), please refer to `PROCEEDINGS.md`.
+
+**Author Liaison Goals:**
+- Maintain accurate, author-facing information and deliverables workflows.
+- Coordinate poster specs, fun-fact submissions, reminders for missing assets.
+- Manage slide deck logistics in sync with session operations.
 
 - Keep Presenter & Author Instructions current
 - Confirm and publish poster specifications
