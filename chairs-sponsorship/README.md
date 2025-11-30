@@ -22,6 +22,30 @@ Raise funds to support the conference and keep registration costs low. Build lon
 
 ---
 
+### Key Decisions & Trade-offs
+
+#### 1) Sponsorship Tiers and Benefits
+*   **Context**: Define attractive packages within budget constraints.
+*   **Options**: Tiered vs Flat.
+*   **Recommendation**: Survey sponsors; benchmark against past years.
+
+#### 2) Recruitment and Negotiation
+*   **Context**: Attract sponsors aligned with ISMIR's values.
+*   **Options**: Targeted outreach vs Open calls.
+*   **Recommendation**: Use networks; provide clear proposals.
+
+#### 3) Benefit Delivery and Integration
+*   **Context**: Ensure seamless benefit provision and event integration.
+*   **Options**: Direct delivery vs Third-party.
+*   **Recommendation**: Track usage; automate where possible.
+
+#### 4) Communication and Feedback
+*   **Context**: Maintain ongoing relationships for retention.
+*   **Options**: Email vs In-person.
+*   **Recommendation**: Schedule check-ins; act on feedback.
+
+---
+
 ## 2025 Specifics (Reference)
 
 ### Decisions

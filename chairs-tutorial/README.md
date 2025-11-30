@@ -22,6 +22,40 @@ Provide educational value to attendees. Tutorials should bridge the gap for newc
 
 ---
 
+### Key Decisions & Trade-offs
+
+#### 1) CFP Themes and Alignment
+*   **Context**: Balance conference theme with broad appeal.
+*   **Options**: Theme-specific vs General.
+*   **Recommendation**: Survey past attendees; pilot theme variations.
+
+#### 2) Submission and Review Process
+*   **Context**: Manage volume and ensure rigorous yet inclusive selection.
+*   **Options**: Email vs Platform.
+*   **Recommendation**: Email is fine for <20 proposals; use rubrics.
+
+#### 3) Format and Logistics
+*   **Context**: Ensure hybrid delivery suits educational goals.
+*   **Options**: Fully in-person vs Hybrid.
+*   **Recommendation**: Test hybrid tools; provide presenter guidelines.
+
+#### 4) Presenter Support and Diversity
+*   **Context**: Support presenters for successful delivery.
+*   **Options**: Training sessions vs Guidelines.
+*   **Recommendation**: Offer rehearsals; promote diverse applicants.
+
+#### 5) Integration with Conference Schedule
+*   **Context**: Fit tutorials without conflicting with main program.
+*   **Options**: Pre-conference vs Integrated.
+*   **Recommendation**: Early scheduling; monitor overlaps.
+
+#### 6) Recording and YouTube Archiving Consent
+*   **Context**: Tutorials have educational value but require consent.
+*   **Options**: Blanket vs Case-by-case; Pre- vs Post-conference.
+*   **Recommendation**: Obtain consent **DURING** proposal phase. Include checkbox in acceptance form. Distinguish between "conference access" and "public YouTube".
+
+---
+
 ## 2025 Specifics (Reference)
 
 ### Decisions

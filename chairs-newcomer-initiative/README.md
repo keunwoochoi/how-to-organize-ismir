@@ -23,6 +23,40 @@ Make the first ISMIR experience welcoming, not intimidating. Connect newcomers w
 
 ---
 
+### Key Decisions & Trade-offs
+
+#### 1) Program Formats and Pairing
+*   **Context**: Balance simplicity with effectiveness for newcomer support.
+*   **Options**: Random pairings vs Preference-based.
+*   **Recommendation**: Pilot pairing algorithms; survey for preferences. Coordinate with Local Org to provide free lunch for newcomer squads – this simple provision significantly enhances squad effectiveness.
+
+#### 2) Mentor Recruitment and Training
+*   **Context**: Ensure mentors are prepared and committed.
+*   **Options**: Open call vs Targeted.
+*   **Recommendation**: Set expectations early; provide resources.
+
+#### 3) Event Integration and Scheduling
+*   **Context**: Align with conference schedule for maximum reach.
+*   **Options**: Dedicated sessions vs Integrated.
+*   **Recommendation**: Coordinate with other chairs; avoid conflicts.
+
+#### 4) Promotion and Application Process
+*   **Context**: Reach newcomers without overwhelming channels.
+*   **Options**: Slack only vs Multi-channel.
+*   **Recommendation**: Use targeted announcements; track engagement.
+
+#### 5) Feedback and Measurement
+*   **Context**: Assess program impact for improvements.
+*   **Options**: Surveys vs Informal.
+*   **Recommendation**: Standardize metrics; share with DEI.
+
+#### 6) Collaboration with DEI
+*   **Context**: Enhance inclusion through joint efforts.
+*   **Options**: Standalone vs Integrated.
+*   **Recommendation**: Regular syncs; define roles clearly.
+
+---
+
 ## 2025 Specifics (Reference)
 
 ### Decisions

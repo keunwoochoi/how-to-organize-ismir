@@ -21,6 +21,40 @@ Recognize and celebrate outstanding contributions to the field. Set the standard
 
 ---
 
+### Key Decisions & Trade-offs
+
+#### 1) Selection Criteria and Process
+*   **Context**: Define standards for excellence in MIR papers.
+*   **Options**: Reviewer scores only vs Holistic.
+*   **Recommendation**: Define rubrics; pilot with sample papers.
+
+#### 2) Nomination and Review Timeline
+*   **Context**: Align with conference schedule for timely decisions.
+*   **Options**: Pre-conference vs Post-submission.
+*   **Recommendation**: Set deadlines; use shared docs.
+
+#### 3) Award Categories and Gifts
+*   **Context**: Balance recognition with feasibility.
+*   **Options**: Single award vs Multiple.
+*   **Recommendation**: Source gifts early; track deliveries.
+
+#### 4) Notification and Presentation
+*   **Context**: Ensure winners are informed and celebrated.
+*   **Options**: Private email vs Public announcement.
+*   **Recommendation**: Prepare scripts; rehearse presentations.
+
+#### 5) Post-Award Management
+*   **Context**: Handle deliveries and follow-ups.
+*   **Options**: Self-delivery vs Third-party.
+*   **Recommendation**: Use reliable methods; document all steps.
+
+#### 6) Improvements and Inclusivity
+*   **Context**: Enhance process for fairness and diversity.
+*   **Options**: Diverse committees vs Standard.
+*   **Recommendation**: Review for biases; survey winners.
+
+---
+
 ## 2025 Specifics (Reference)
 
 ### Decisions

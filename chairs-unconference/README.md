@@ -21,6 +21,40 @@ Facilitate organic, participant-driven discussions on emerging or niche topics. 
 
 ---
 
+### Key Decisions & Trade-offs
+
+#### 1) Format and Timing
+*   **Context**: Balance flexibility with structure.
+*   **Options**: Post-session vs Dedicated.
+*   **Recommendation**: Test timing; gather feedback.
+
+#### 2) Topic Selection Process
+*   **Context**: Ensure diverse and relevant topics.
+*   **Options**: Open proposals vs Curated.
+*   **Recommendation**: Limit to 5-10 proposals; use anonymous voting.
+
+#### 3) Room Setup and Facilitation
+*   **Context**: Support group discussions without disruptions.
+*   **Options**: Single room vs Separate.
+*   **Recommendation**: Provide templates for summaries; train secretaries.
+
+#### 4) Integration with Conference Schedule
+*   **Context**: Avoid conflicts with other events.
+*   **Options**: Adjacent vs Standalone.
+*   **Recommendation**: Early coordination; monitor overlaps.
+
+#### 5) Follow-Up and Continuation
+*   **Context**: Extend discussions beyond the event.
+*   **Options**: Slack channels vs Forums.
+*   **Recommendation**: Create channels early; promote participation.
+
+#### 6) Improvements and Inclusivity
+*   **Context**: Enhance engagement and accessibility.
+*   **Options**: Evening with food vs Daytime.
+*   **Recommendation**: Survey for preferences; ensure accessibility.
+
+---
+
 ## 2025 Specifics (Reference)
 
 ### Decisions

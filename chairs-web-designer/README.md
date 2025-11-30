@@ -22,6 +22,28 @@ Provide the primary information hub for the conference. It must be accessible, u
 
 ---
 
+### Key Decisions & Trade-offs
+
+#### 1) Website Structure and Design
+*   **Context**: Create intuitive navigation for diverse users.
+*   **Options**: Custom vs Template.
+*   **Recommendation**: Wireframe early; test with users.
+
+#### 2) Analytics and Improvements
+*   **Context**: Track usage for enhancements.
+*   **Options**: Google Analytics vs Custom.
+*   **Recommendation**: Set KPIs; act on insights.
+
+#### 3) Post-Conference Website Transition
+*   **Context**: Shift from "promotional" to "archival" mode.
+*   **Options**: Immediate vs Gradual.
+*   **Recommendation**: Plan strategy in advance.
+    *   **Timing**: Update within 1-2 weeks.
+    *   **Content**: Remove "upcoming"; add "highlights", awards, videos, proceedings.
+    *   **Templates**: Prepare these before the conference ends.
+
+---
+
 ## 2025 Specifics (Reference)
 
 ### Decisions

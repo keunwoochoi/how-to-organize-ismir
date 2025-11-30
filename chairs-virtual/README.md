@@ -22,6 +22,30 @@ Ensure remote attendees have a meaningful experience, not just a "fly on the wal
 
 ---
 
+### Key Decisions & Trade-offs
+
+#### 1) Platform Selection and Setup
+*   **Context**: Choose tools that support hybrid goals.
+*   **Options**: Zoom/Slack/Miniconf.
+*   **Recommendation**: Select platforms early (Month -8).
+
+#### 2) User Support and Accessibility
+*   **Context**: Assist remote users for smooth participation.
+*   **Options**: Help desks vs Self-service.
+*   **Recommendation**: Provide guides; monitor for issues.
+
+#### 3) Recording and Sharing Consent (Session-Specific)
+*   **Context**: Different session types have varying consent needs.
+*   **Options**: Blanket vs Session-specific.
+*   **Recommendation**: Obtain consent **BEFORE** conference for ALL sessions.
+    *   **Tutorials**: Ask during proposal.
+    *   **Industry**: Negotiate carefully.
+    *   **Keynotes**: Discuss during invitation.
+    *   **Music**: Explicit consent required.
+    *   **Papers**: Default to public sharing (academic standard).
+
+---
+
 ## 2025 Specifics (Reference)
 
 ### Decisions

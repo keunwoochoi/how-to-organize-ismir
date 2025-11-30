@@ -22,6 +22,40 @@ Honor papers that have had a lasting impact on the field. Bridge the past and pr
 
 ---
 
+### Key Decisions & Trade-offs
+
+#### 1) Award Categories and Scope
+*   **Context**: Define which papers/years to honor.
+*   **Options**: Single vs Multiple categories.
+*   **Recommendation**: Consult board; align with community feedback.
+
+#### 2) Committee Formation and Leadership
+*   **Context**: Ensure diverse, expert committee.
+*   **Options**: Invite-only vs Open.
+*   **Recommendation**: Pre-screen for CoI; provide clear roles.
+
+#### 3) Nomination Process
+*   **Context**: Engage community for comprehensive candidate list.
+*   **Options**: Public call vs Internal.
+*   **Recommendation**: Set deadlines; use forms for submissions.
+
+#### 4) Deliberation and Selection
+*   **Context**: Manage discussions for consensus.
+*   **Options**: Email vs Slack.
+*   **Recommendation**: Set timelines; handle ties with metrics.
+
+#### 5) Notification and Ceremony Planning
+*   **Context**: Inform winners and plan presentations.
+*   **Options**: Private vs Public.
+*   **Recommendation**: Confirm attendance; prepare plaques.
+
+#### 6) Documentation and Improvements
+*   **Context**: Capture lessons for future continuity.
+*   **Options**: Internal notes vs Public reports.
+*   **Recommendation**: Include challenges; share with board.
+
+---
+
 ## 2025 Specifics (Reference)
 
 ### Decisions

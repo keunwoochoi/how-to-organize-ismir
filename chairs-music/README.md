@@ -22,6 +22,52 @@ Curate a concert that showcases the intersection of music and technology. It sho
 
 ---
 
+### Key Decisions & Trade-offs
+
+#### 1) CFP Themes and MIR Integration Requirements
+*   **Context**: Balance artistic freedom with MIR relevance.
+*   **Options**:
+    *   *Option A (Broad)*: Increases diversity but risks off-topic submissions.
+    *   *Option B (Specific)*: Focuses creativity.
+*   **Recommendation**: Pilot theme variations yearly; survey post-concert for feedback.
+
+#### 2) Submission and Review Process
+*   **Context**: Light review for accessibility vs rigorous for quality.
+*   **Options**: Anonymous vs Non-anonymous.
+*   **Recommendation**: Non-anonymous builds community; use rubrics for consistency.
+
+#### 3) Duration and Format Constraints
+*   **Context**: Venue time limits and hybrid logistics.
+*   **Options**: Fixed slots vs flexible.
+*   **Recommendation**: Test format in dry runs; adjust based on prior years.
+
+#### 4) Tech Support and Resources
+*   **Context**: Enable MIR integrations without overwhelming venue.
+*   **Options**: Standard kit vs Custom requests.
+*   **Recommendation**: Early coordination; budget for rentals.
+
+#### 5) Grants and Inclusivity
+*   **Context**: Promote diversity while rewarding quality.
+*   **Options**: Merit-based vs Need-based.
+*   **Recommendation**: Transparent criteria; anonymous review.
+
+#### 6) Concert Execution and Interaction
+*   **Context**: Engage both in-person and virtual audiences.
+*   **Options**: Live chat vs Moderated Q&A.
+*   **Recommendation**: Rehearse hybrid elements; monitor engagement.
+
+#### 7) Waiver Expectations and Policies
+*   **Context**: Submitters often assume participation grants waivers.
+*   **Options**: Automatic vs Case-by-case.
+*   **Recommendation**: Explicitly state waiver policy in CFP; consider automatic for students or need-based.
+
+#### 8) Integration with Jam Session
+*   **Context**: Enhancing MIR demos and cross-area collaboration.
+*   **Options**: No integration vs Partial invites.
+*   **Recommendation**: Start discussions early; define integration criteria; pilot small-scale.
+
+---
+
 ## 2025 Specifics (Reference)
 
 ### Decisions
