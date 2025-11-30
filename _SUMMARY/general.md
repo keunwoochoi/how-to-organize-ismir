@@ -192,6 +192,14 @@ Appointing the right people is your most critical task.
 *   **Logistics**:
     *   **Duration**: Set strict duration limits (e.g., <8 mins) to accommodate more performances.
     *   **Tech Support**: Provide clear tech support/resources (PA, projector, basic backline) to lower barriers. Request tech riders early.
+*   **Key Decisions & Trade-offs**:
+    *   **Submission Anonymity**:
+        *   *Option A (Anonymous)*: Reduces bias but complicates review (hard to anonymize performances).
+        *   *Option B (Non-Anonymous)*: Builds community but risks bias. *Recommendation*: Non-anonymous with light review is often sufficient for artistic tracks.
+    *   **Waiver Policy**:
+        *   *Context*: Musicians often assume acceptance = free ticket.
+        *   *Trade-off*: Automatic waivers increase participation but hurt budget. No waivers risks dropping high-quality acts.
+        *   *Recommendation*: Be explicit. Consider "Need-based" waivers rather than "Automatic" to balance budget.
 
 ### Tutorials
 *   **Goal**: Provide educational value. Bridge the gap for newcomers (introductory) or deepen knowledge for experts (advanced).
@@ -204,6 +212,13 @@ Appointing the right people is your most critical task.
 *   **Consent & Archiving**:
     *   **Timing**: Obtain recording/sharing consent **DURING** the proposal phase. Retroactive consent gathering is slow and painful.
     *   **Distinction**: Be clear about the different levels of consent, such as recording for internal conference use versus public archiving on platforms like YouTube.
+*   **Key Decisions & Trade-offs**:
+    *   **Submission Format**:
+        *   *Option A (Email)*: Simple for low volume (6-10 proposals).
+        *   *Option B (Platform)*: Scales better but adds overhead. *Recommendation*: Email is fine for <20 proposals.
+    *   **Scheduling**:
+        *   *Option A (Pre-conference)*: Avoids conflicts with main track. *Recommendation*: Standard practice.
+        *   *Option B (Integrated)*: Higher attendance but competes with papers.
 
 ### Late Breaking Demos (LBD)
 *   **Goal**: Low-barrier entry for prototypes and early-stage work.
@@ -233,6 +248,13 @@ Appointing the right people is your most critical task.
 *   **Job Boards**:
     *   **Privacy**: Promote widely but consider privacy (self-hosted PDFs vs. hosted platforms).
     *   **Access**: Decide if access is tiered (Platinum only) or open.
+*   **Key Decisions & Trade-offs**:
+    *   **Tiers vs Flat**:
+        *   *Option A (Tiered)*: Allows scaling (Platinum/Gold/Silver). *Recommendation*: Standard.
+        *   *Option B (Flat)*: Simplifies sales but leaves money on the table.
+    *   **Benefit Delivery**:
+        *   *Option A (Direct)*: Organizers handle registrations/logos. *Recommendation*: High control, high effort.
+        *   *Option B (Self-Serve)*: Sponsors manage their own portals. Low effort, but risk of non-compliance.
 
 ## 4. Community & Support
 
@@ -275,6 +297,13 @@ Appointing the right people is your most critical task.
     *   **Confirmation**: Use multi-stage confirmation (email + form + LinkedIn if needed) to avoid wasted grants. Ghosting is common.
     *   **Travel Booking**: Consider fixed-amount grants ("up to $N") rather than pre-purchasing tickets. Pre-purchasing is logistically complex and budget-unpredictable.
     *   **Accommodation**: Explicitly state that accommodation grants are for **shared twin rooms**. Manage pairings carefully (collect preferences).
+*   **Key Decisions & Trade-offs**:
+    *   **Travel Model**:
+        *   *Option A (Pre-purchase)*: Guaranteed attendance but administrative nightmare.
+        *   *Option B (Stipend/Reimbursement)*: Easier admin but requires recipient to front cash (barrier for some). *Recommendation*: Fixed-amount stipend if university rules allow, or agency for critical cases only.
+    *   **Allocation Logic**:
+        *   *Option A (First-come)*: Fast but unfair.
+        *   *Option B (Ranked)*: Fairer but slower. *Recommendation*: Ranked, with a waitlist for "ghosts".
 
 ### Newcomer Initiatives
 *   **Mentoring**:
@@ -304,6 +333,9 @@ Appointing the right people is your most critical task.
 *   **Mental Model: "The Waterfall Strategy"**:
     *   **Problem**: Announcing everything at once causes information overload.
     *   **Solution**: Release announcements sequentially (Save the Date -> Program -> Support -> Urgent).
+*   **Workload**:
+    *   **Nature**: Lightweight but requires consistency. It is "single-directional" (broadcasting), unlike the high-interaction demands of other roles.
+    *   **Passion**: Requires someone who genuinely cares about the community vibe.
 *   **The "Linkage Rule"**:
     *   **Concept**: Every post should link to a related opportunity.
     *   **Example**: "Call for Music" post should *also* mention "Grant Applications Open" because artists often need funding.
@@ -331,3 +363,10 @@ Appointing the right people is your most critical task.
 *   **Virtual**:
     *   **Zoom**: Reliable for sessions.
     *   **YouTube**: Best for streaming and archiving.
+*   **Key Decisions & Trade-offs**:
+    *   **Streaming Model**:
+        *   *Option A (Live)*: High excitement, high risk (tech failures).
+        *   *Option B (Pre-recorded)*: Safe, high quality, but low engagement. *Recommendation*: Live for Keynotes/Orals, Pre-recorded for Posters/Demos.
+    *   **Interaction**:
+        *   *Option A (Chat)*: Low friction, high volume.
+        *   *Option B (Live Q&A)*: High engagement but requires strict moderation. *Recommendation*: Chat for remote attendees, Live Mic for in-person.
