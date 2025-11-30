@@ -23,6 +23,44 @@ Remove financial barriers to attendance. You manage the budget to maximize parti
 
 ---
 
+### Key Decisions & Trade-offs
+
+#### 1) Eligibility Criteria and Weighting
+*   **Context**: Define specific criteria and assign weights to ensure objective selection.
+*   **Options**: Equal weights vs differentiated weights.
+*   **Recommendation**: Use a weighted rubric.
+    *   **Student**: +1
+    *   **Underrepresented in MIR**: +1
+    *   **LMIC**: +1
+    *   **First Author**: +1 (Supporting author +0.5 if first author also gets grant)
+    *   **Previous Attendance**: <3 conferences +1 (Previous grant recipient -1)
+
+#### 2) Types of Support and Two-Stage Allocation
+*   **Context**: Allocating limited resources (Waivers, Accommodation, Travel) when preferences conflict.
+*   **Options**: First-come-first-served vs Ranked.
+*   **Recommendation**: **Two-Stage Process**:
+    1.  **Stage 1**: Assign most desired grant type by ranking.
+    2.  **Stage 2**: Assign next desired type if slots remain.
+
+#### 3) Travel Grant Logistics
+*   **Context**: Travel grants are administratively complex.
+*   **Options**:
+    *   *Option A (Pre-purchase)*: Guaranteed attendance but administrative nightmare. Agency fees/delays.
+    *   *Option B (Fixed Amount)*: Predictable budget, incentivizes economy.
+*   **Recommendation**: Shift to **Fixed-Amount Model** (e.g., "up to $1200").
+
+#### 4) Accommodation Pairing Process
+*   **Context**: Pairing strangers in shared rooms requires care.
+*   **Options**: Random vs Preference-based.
+*   **Recommendation**: Collect preferences (gender, habits) via form. Explicitly state "Shared Twin Rooms" to avoid surprises.
+
+#### 5) Confirmation and Communication Strategy
+*   **Context**: Recipients ghosting leads to wasted budget.
+*   **Options**: Email-only vs Multi-channel.
+*   **Recommendation**: **Multi-channel**. Email with embedded Google Form link. LinkedIn outreach for non-responders. Set strict deadlines.
+
+---
+
 ## 2025 Specifics (Reference)
 
 ### Decisions

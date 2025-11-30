@@ -46,11 +46,9 @@ Appointing the right people is your most critical task.
     *   **Wrap-up**: Debrief with all chairs, close finances, and archive materials (website, proceedings).
 
 ### PCO Management
-*   **Timeline**:
-    *   **Month -18 to -12**: Form the core team (Local, Finance, SPC).
-    *   **Month -8 to -6**: Select and contract a Professional Conference Organizer (PCO) for non-core tasks (catering, registration, visas).
-*   **Role**: PCOs handle catering, visas, registration, and payments.
-*   **Warning**: Do not trust them blindly. ISMIR has higher standards for community care (e.g., dietary options, student support) than average corporate events. Micro-management is often necessary.
+*   **Working with PCOs**:
+    *   **Trust but Verify**: PCOs handle logistics (catering, registration), but they don't know ISMIR's culture.
+    *   **Micro-management**: You *must* micro-manage details like dietary options, student support, and sustainability. Standard corporate conference defaults are often insufficient for ISMIR.
 *   **Negotiation**: Push back on initial quotes and suggestions if they don't align with ISMIR values (e.g., insufficient vegetarian options).
 
 ### Grant Strategy
@@ -192,6 +190,10 @@ Appointing the right people is your most critical task.
 *   **Logistics**:
     *   **Duration**: Set strict duration limits (e.g., <8 mins) to accommodate more performances.
     *   **Tech Support**: Provide clear tech support/resources (PA, projector, basic backline) to lower barriers. Request tech riders early.
+*   **Inclusivity & Integration**:
+    *   **Grants**: Use grants to promote diversity (geography, experience, need).
+    *   **Waivers**: Explicitly state waiver policies in the CFP. Don't leave it ambiguous; artists often assume waivers are automatic.
+    *   **Cross-Pollination**: Consider integrating with other events like Jam Sessions or Rencon to increase visibility.
 *   **Key Decisions & Trade-offs**:
     *   **Submission Anonymity**:
         *   *Option A (Anonymous)*: Reduces bias but complicates review (hard to anonymize performances).
@@ -274,6 +276,7 @@ Appointing the right people is your most critical task.
 *   **Mental Models**:
     *   **"The Critical Path"**: Assign your most **tech-savvy** volunteers to Audio/Visual shifts. Do not randomize this.
     *   **"The Handover"**: Schedule a 15-minute overlap between shifts for knowledge transfer.
+    *   **"The No-Show Factor"**: Expect a 10-20% drop-off. Over-recruit to ensure you have coverage when people get sick or tired.
 *   **Role Definitions**:
     *   **Specialized**: Specific roles (e.g., "AV Tech", "Registration"). Efficient but harder to schedule.
     *   **General**: "Floater" roles. Flexible but may lack specific skills.
@@ -332,7 +335,11 @@ Appointing the right people is your most critical task.
 ### Social Media
 *   **Mental Model: "The Waterfall Strategy"**:
     *   **Problem**: Announcing everything at once causes information overload.
-    *   **Solution**: Release announcements sequentially (Save the Date -> Program -> Support -> Urgent).
+    *   **Solution**: Release announcements sequentially over a week:
+        1.  **Save the Date** (General awareness)
+        2.  **Major Program** (Tutorials/Keynotes)
+        3.  **Support** (Grants - critical for inclusion)
+        4.  **Urgent Calls** (Music/LBD with upcoming deadlines)
 *   **Workload**:
     *   **Nature**: Lightweight but requires consistency. It is "single-directional" (broadcasting), unlike the high-interaction demands of other roles.
     *   **Passion**: Requires someone who genuinely cares about the community vibe.
@@ -345,7 +352,6 @@ Appointing the right people is your most critical task.
     *   **Design**: Create templates that work across all platforms (e.g., 4:3 ratio images often crop well on most feeds).
     *   **Scheduling**: Use event-based scheduling (deadlines, keynotes, awards) rather than daily filler. Quality > Quantity.
 *   **Sponsor Integrations**:
-    *   **Linkage**: Every post should link to a related opportunity.
     *   **Tagging**: Collect sponsor handles early and tag them in relevant posts (e.g., "Thanks to our Platinum sponsors").
 
 ### Registration System

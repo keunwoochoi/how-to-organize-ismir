@@ -22,6 +22,50 @@ Promote equitable access, safety, and inclusion. You are the conscience of the c
 
 ---
 
+### Key Decisions & Trade-offs
+
+#### 1) Code of Conduct and Reporting
+*   **Context**: Set behavioral expectations; define safe, confidential reporting and response.
+*   **Options**:
+    *   *Option A (Anonymous)*: Lowers barrier but reduces detail.
+    *   *Option B (Named Contacts)*: Builds trust but needs training.
+*   **Recommendation**: Publish short CoC; provide **both** named contacts and anonymous form; document escalation SLAs.
+
+#### 2) Accessibility Accommodations
+*   **Context**: Mobility, sensory, hearing/vision support; dietary needs; quiet rooms; signage; captions/ASR.
+*   **Options**:
+    *   *Option A (Central Form)*: Proactive planning reduces last-minute costs.
+    *   *Option B (On-demand)*: Flexible but unreliable.
+*   **Recommendation**: Add access-needs fields to registration; maintain an accommodations tracker with owners and due dates.
+
+#### 3) Childcare and Lactation Support
+*   **Context**: Caregiver support increases participation and equity.
+*   **Options**:
+    *   *Option A (On-site)*: Increases access but requires liability checks.
+    *   *Option B (Stipend)*: Offers flexibility.
+*   **Recommendation**: Decide by Month -6; publish early; coordinate signage and private space booking.
+
+#### 4) Pronouns and Names
+*   **Context**: Respect identity across badges, registration, and online platforms.
+*   **Options**: Badge pronoun fields; display preferences; pronunciation guides.
+*   **Recommendation**: Offer optional pronoun field; ensure staff training; avoid forced disclosure.
+
+#### 5) Photo and Video Consent
+*   **Context**: Balance documentation with privacy and safety.
+*   **Options**:
+    *   *Option A (Visual Opt-out)*: Colored lanyards. Simple.
+    *   *Option B (Form-based)*: Lists. Hard to enforce.
+*   **Recommendation**: Publish simple on-site photo policy; maintain session-level consent matrix for recordings.
+
+#### 6) Inclusive Outreach and Programming
+*   **Context**: Encourage participation by underrepresented groups and newcomers.
+*   **Options**:
+    *   *Option A (Dedicated Sessions)*: Create safe focus.
+    *   *Option B (Integrated)*: Broaden reach.
+*   **Recommendation**: Provide templates for inclusive calls; coordinate calendars to avoid conflicts.
+
+---
+
 ## 2025 Specifics (Reference)
 
 ### Decisions
