@@ -45,14 +45,17 @@ Appointing the right people is your most critical task.
 *   **Post-Conference**:
     *   **Wrap-up**: Debrief with all chairs, close finances, and archive materials (website, proceedings).
 
-### Budget & Finance
-*   **PCO Management**:
-    *   **Role**: PCOs handle catering, visas, registration, and payments.
-    *   **Warning**: Do not trust them blindly. ISMIR has higher standards for community care (e.g., dietary options, student support) than average corporate events. Micro-management is often necessary.
-    *   **Negotiation**: Push back on initial quotes and suggestions if they don't align with ISMIR values (e.g., insufficient vegetarian options).
-*   **Grant Strategy**:
-    *   **Leadership**: Appoint Grant Chairs early. **Crucial**: Pair a local chair (logistics/payments) with an experienced attendee (selection).
-    *   **Communication**: Ensure clear communication between Grant Chairs and PCO to avoid overworking the chairs with payment logistics.
+### PCO Management
+*   **Timeline**:
+    *   **Month -18 to -12**: Form the core team (Local, Finance, SPC).
+    *   **Month -8 to -6**: Select and contract a Professional Conference Organizer (PCO) for non-core tasks (catering, registration, visas).
+*   **Role**: PCOs handle catering, visas, registration, and payments.
+*   **Warning**: Do not trust them blindly. ISMIR has higher standards for community care (e.g., dietary options, student support) than average corporate events. Micro-management is often necessary.
+*   **Negotiation**: Push back on initial quotes and suggestions if they don't align with ISMIR values (e.g., insufficient vegetarian options).
+
+### Grant Strategy
+*   **Leadership**: Appoint Grant Chairs early. **Crucial**: Pair a local chair (logistics/payments) with an experienced attendee (selection).
+*   **Communication**: Ensure clear communication between Grant Chairs and PCO to avoid overworking the chairs with payment logistics.
 
 ### Venue & Local Logistics
 *   **Venue Selection Heuristics**:
@@ -200,6 +203,7 @@ Appointing the right people is your most critical task.
     *   **Tech**: Ensure the venue has adequate AV for hybrid interaction (screens, mics for remote Q&A).
 *   **Consent & Archiving**:
     *   **Timing**: Obtain recording/sharing consent **DURING** the proposal phase. Retroactive consent gathering is slow and painful.
+    *   **Distinction**: Be clear about the different levels of consent, such as recording for internal conference use versus public archiving on platforms like YouTube.
 
 ### Late Breaking Demos (LBD)
 *   **Goal**: Low-barrier entry for prototypes and early-stage work.
@@ -225,7 +229,7 @@ Appointing the right people is your most critical task.
 *   **Event Formats**:
     *   **Dedicated Sessions**: High focus, but competes with other tracks if parallel.
     *   **Integrated**: Industry talks mixed with papers. High exposure, but risks dilution.
-    **Lightning Talks**: Great for engagement (1-min, 1-slide). Keeps the energy high.
+    *   **Lightning Talks**: Great for engagement (1-min, 1-slide). Keeps the energy high.
 *   **Job Boards**:
     *   **Privacy**: Promote widely but consider privacy (self-hosted PDFs vs. hosted platforms).
     *   **Access**: Decide if access is tiered (Platinum only) or open.
@@ -254,23 +258,31 @@ Appointing the right people is your most critical task.
 *   **Shift Scheduling**:
     *   **One-day Shifts**: Volunteer works 1 full day, free for rest. Easier to schedule and prevents burnout.
     *   **Distributed Shifts**: 2 hours every day. Harder to schedule.
+*   **Recruitment & Training**:
+    *   **Selection**: Balance between local students (logistics/language) and general attendees (community vibe).
+    *   **Manuals**: Provide detailed manuals and checklists for each role. Don't rely on verbal briefing.
+    *   **Briefing**: Hold an on-site briefing before the conference starts.
+*   **Benefits**:
+    *   **Standard**: Free registration is the standard benefit.
+    *   **Bonus**: Accommodation support is a nice bonus if the budget allows, but prioritize grants for those in need.
 
 ### Travel Grants
 *   **Criteria & Scoring**:
     *   **Rubrics**: Establish transparent, weighted scoring rubrics (e.g., +1 for Student, +1 for LMIC).
     *   **Categories**: Consider separate pools for Authors, WIMIR, and Diversity.
 *   **Logistics**:
-    *   **Hotels**: Block rooms 6-8 months in advance.
-    *   **Confirmation**: Use multi-stage confirmation to avoid wasted grants. Ghosting is common.
-    *   **Accommodation**: Explicitly state that accommodation grants are for **shared twin rooms**.
+    *   **Hotels**: Block rooms 6-8 months in advance. Prices skyrocket closer to the date.
+    *   **Confirmation**: Use multi-stage confirmation (email + form + LinkedIn if needed) to avoid wasted grants. Ghosting is common.
+    *   **Travel Booking**: Consider fixed-amount grants ("up to $N") rather than pre-purchasing tickets. Pre-purchasing is logistically complex and budget-unpredictable.
+    *   **Accommodation**: Explicitly state that accommodation grants are for **shared twin rooms**. Manage pairings carefully (collect preferences).
 
 ### Newcomer Initiatives
 *   **Mentoring**:
     *   **Recruitment**: Recruit experienced attendees as mentors.
-    *   **Pairing**: Use simple pairing algorithms (e.g., by research interest).
+    *   **Pairing**: Use simple pairing algorithms (e.g., by research interest or language). Don't overcomplicate it.
 *   **Squads**:
     *   **Concept**: Small groups ("squads") of newcomers led by a mentor are often more effective than 1:1 mentoring.
-    *   **Catalyst**: Providing a free meal (lunch) for squads is a high-impact, low-cost way to foster bonding.
+    *   **Catalyst**: Providing a free meal (lunch) for squads is a high-impact, low-cost way to foster bonding. It lowers the barrier for meeting up.
 
 ## 5. Communication & Operations
 
@@ -278,25 +290,37 @@ Appointing the right people is your most critical task.
 *   **Mental Model: "The Content Pipeline"**:
     *   **Problem**: Web Chairs are developers, not copywriters.
     *   **Solution**: Chairs draft content in **Google Docs**. Once approved, it is handed to the Web Chair for implementation.
-    *   **Heuristic**: "CSV for Tables". If you have a list of 20 tutorials, give the Web Chair a CSV.
+    *   **Heuristic**: "CSV for Tables". If you have a list of 20 tutorials, give the Web Chair a CSV, not a PDF or a Word doc.
 *   **Design**:
     *   **"The Reference Principle"**: Copy the menu structure of the previous year's website.
     *   **Mobile First**: 50% of attendees will check the schedule on their phone.
 *   **Lifecycle**:
     *   **Pre-Conference**: Focus on CFP and Registration.
     *   **During**: Switch to "Live" mode (schedule, links).
-    *   **Post**: Transition to "Archive" mode (Awards, Proceedings) within 2 weeks.
+    *   **Post**: Transition to "Archive" mode (Awards, Proceedings) within 2 weeks. Don't leave a "Welcome!" page up for months after the event.
+*   **Analytics**: Use tools like Google Analytics to track usage. This helps justify budget for web design and informs future navigation improvements.
 
 ### Social Media
 *   **Mental Model: "The Waterfall Strategy"**:
     *   **Problem**: Announcing everything at once causes information overload.
     *   **Solution**: Release announcements sequentially (Save the Date -> Program -> Support -> Urgent).
+*   **The "Linkage Rule"**:
+    *   **Concept**: Every post should link to a related opportunity.
+    *   **Example**: "Call for Music" post should *also* mention "Grant Applications Open" because artists often need funding.
 *   **Platform Strategy**:
     *   **Multi-platform**: Broad reach (Twitter, LinkedIn, Insta, FB), but high maintenance.
     *   **Focused**: Pick 1-2 key platforms.
+    *   **Design**: Create templates that work across all platforms (e.g., 4:3 ratio images often crop well on most feeds).
+    *   **Scheduling**: Use event-based scheduling (deadlines, keynotes, awards) rather than daily filler. Quality > Quantity.
 *   **Sponsor Integrations**:
     *   **Linkage**: Every post should link to a related opportunity.
-    *   **Tagging**: Collect sponsor handles early and tag them in relevant posts.
+    *   **Tagging**: Collect sponsor handles early and tag them in relevant posts (e.g., "Thanks to our Platinum sponsors").
+
+### Registration System
+*   **Integration**:
+    *   **Data Flow**: Ensure the registration system talks to the website and submission systems. You need to validate that authors have registered.
+*   **Waivers**:
+    *   **Coordination**: Coordinate closely with Grants and Volunteer chairs. Manage waiver codes centrally to prevent abuse or double-dipping.
 
 ### Tech Stack & Tools
 *   **Submission**:
