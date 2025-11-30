@@ -5,16 +5,23 @@
 ## Goal
 This document covers the **Author Liaison** responsibilities (pre-conference & on-site). For the **Proceedings Production** (post-conference), please refer to `PROCEEDINGS.md`.
 
-**Author Liaison Goals:**
+## Staffing Recommendation
+*   **Ideal Team**: 2 Co-Chairs.
+    *   **Chair 1 (Technical Lead)**: Python, LaTeX, Git, Zenodo API. Handles the build pipeline.
+    *   **Chair 2 (Content/Liaison)**: Communication, data collection, front matter editing. Handles the people.
+*   **Alternative**: 1 Chair + 1 Technical Assistant (Used in 2025).
+*   **Workload**: Expect ~60-80 hours per chair, concentrated in the 2 months post-conference.
+
+## Scope & Responsibilities
+**Phase 1: Author Liaison (Pre-Conference)**
 - Maintain accurate, author-facing information and deliverables workflows.
 - Coordinate poster specs, fun-fact submissions, reminders for missing assets.
 - Manage slide deck logistics in sync with session operations.
 
-- Keep Presenter & Author Instructions current
-- Confirm and publish poster specifications
-- Define and announce fun-fact policy and format
-- Remind authors to complete required uploads via the submission system
-- Coordinate slide deck access and session handoffs with volunteers/session chairs
+**Phase 2: Proceedings Production (Post-Conference)**
+- **See [PROCEEDINGS.md](PROCEEDINGS.md) for the complete guide.**
+- Compile proceedings PDF.
+- Generate metadata and upload to Zenodo/DBLP.
 
 ## Chairs' Goal
 Execute clear communications and lightweight processes that align with what other teams can support on-site and online.

@@ -12,12 +12,24 @@ This document outlines the timeless guidelines, standard procedures, and best pr
 *   **The "Hidden Workload" Principle**:
     *   **Grants**: It's not just selecting people. It's 80% logistics (visas, bank transfers, hotel bookings).
     *   **Virtual**: It's not just "turning on Zoom". It's building a website (miniconf), managing Slack, and editing video. It is a full-time DevOps job.
+*   **The "Gap Filler" (General Chairs)**:
+    *   **Concept**: If a chair is missing or underperforming, the General Chair is the backup. You must be ready to step in.
+    *   **Action**: Delegate everything foreseeable. Save your bandwidth for the unpredictable crises that *only* you can handle.
+
+### Team Composition & Recruitment
+Appointing the right people is your most critical task.
+*   **Scientific Program (SPC)**: Senior academics, detail-oriented. Avoid "Idea Guys" who hate email.
+*   **Local Org**: Local resident, fluent in local language, knows venue. Your "boots on the ground".
+*   **Finance**: Trustworthy, spreadsheet-literate, patient with bureaucracy.
+*   **Sponsorship**: Good networker, "sales" mindset. Comfortable asking for money.
+*   **Web/Tech**: Actual developers. If the site goes down, it's a crisis.
+*   **Music**: Artist-researchers who understand tech riders and stage management.
+*   **Volunteers**: People-oriented, patient, organized.
+*   **DEI/Grants**: Empathetic but rigorous with paperwork.
 
 ### Overall Timeline & Milestones
-*   **Month -12 to -9**:
-    *   **Appoint General Chairs (GCs)**: Ideally 3 people. A mix of local and experienced ISMIR attendees is crucial.
-    *   **Form Key Committees**: Scientific Program, Local Org, and Finance.
-    *   **Venue & Budget**: Define high-level budget and venue strategy. On-campus venues are often cheaper and foster better attendance than scattered hotels.
+*   **Month -18 to -12**: Form the core team (Local, Finance, SPC).
+*   **Month -12**: Contract PCO (Professional Conference Organizer).
 *   **Month -8 to -6**:
     *   **PCO Contract**: Select and contract a Professional Conference Organizer (PCO) for non-core tasks (catering, registration, visas).
     *   **Venue Layout**: Plan room allocations for sessions, posters, and social events.
@@ -33,25 +45,29 @@ This document outlines the timeless guidelines, standard procedures, and best pr
 *   **Post-Conference**:
     *   **Wrap-up**: Debrief with all chairs, close finances, and archive materials (website, proceedings).
 
-### Budget & Finance
-*   **PCO Management**:
-    *   **Role**: PCOs handle catering, visas, registration, and payments.
-    *   **Warning**: Do not trust them blindly. ISMIR has higher standards for community care (e.g., dietary options, student support) than average corporate events. Micro-management is often necessary.
-    *   **Negotiation**: Push back on initial quotes and suggestions if they don't align with ISMIR values (e.g., insufficient vegetarian options).
-*   **Grant Strategy**:
-    *   **Leadership**: Appoint Grant Chairs early. **Crucial**: Pair a local chair (logistics/payments) with an experienced attendee (selection).
-    *   **Communication**: Ensure clear communication between Grant Chairs and PCO to avoid overworking the chairs with payment logistics.
+### PCO Management
+*   **Working with PCOs**:
+    *   **Trust but Verify**: PCOs handle logistics (catering, registration), but they don't know ISMIR's culture.
+    *   **Micro-management**: You *must* micro-manage details like dietary options, student support, and sustainability. Standard corporate conference defaults are often insufficient for ISMIR.
+*   **Negotiation**: Push back on initial quotes and suggestions if they don't align with ISMIR values (e.g., insufficient vegetarian options).
+
+### Grant Strategy
+*   **Leadership**: Appoint Grant Chairs early. **Crucial**: Pair a local chair (logistics/payments) with an experienced attendee (selection).
+*   **Communication**: Ensure clear communication between Grant Chairs and PCO to avoid overworking the chairs with payment logistics.
 
 ### Venue & Local Logistics
-*   **Venue Selection**:
-    *   **Campus vs. Hotel**: On-campus venues (like KAIST) often provide fresh air, outdoor spaces, and budget savings. They also tend to keep attendees focused on the conference rather than exploring the city.
+*   **Venue Selection Heuristics**:
+    *   **Campus vs. Hotel**:
+        *   *Campus*: Fresh air, outdoor spaces, budget savings. Fosters community focus (attendees stay on site).
+        *   *Hotel*: Better amenities/staff, but expensive and less "academic". Attendees may drift away to sightsee.
+        *   *Urban vs Isolated*: Isolated venues (like KAIST) keep the community together but require robust shuttle/food logistics. Urban venues offer more food options but more distractions.
     *   **Capacity**: Ensure spaces can handle parallel sessions (if used) and large poster sessions (A0 boards).
 *   **Catering**:
     *   **Ownership**: Local Chairs should own food decisions. Don't leave it entirely to the PCO.
     *   **Essentials**: Unlimited coffee/snacks all day are highly appreciated and keep energy levels high.
     *   **Diversity**: Provide robust options for various diets (vegan, gluten-free, halal, etc.).
 *   **Transportation**:
-    *   **Shuttles**: If the venue is isolated, provide shuttles from major hotel clusters.
+    *   **Shuttles**: If the venue is isolated or taxis are scarce (rush hour), provide shuttles from major hotel clusters.
     *   **Communication**: Publish schedules and maps early. Use apps or Slack for real-time updates.
 *   **Crisis Management (The "Go-Bag")**:
     *   **Tech**: Have a dedicated "Emergency Tech Kit" with HDMI cables, dongles (USB-C to HDMI), and **at least one Windows laptop** (for compatibility testing).
@@ -158,41 +174,62 @@ This document outlines the timeless guidelines, standard procedures, and best pr
     *   **Fun Facts**: Collecting "fun facts" from authors for session intros is a nice touch. Keep it simple (1-3 facts) to avoid overwhelming session chairs.
 *   **Proceedings**:
     *   **Platform**: Ensure proceedings are indexed and available (e.g., Zenodo, ACL Anthology).
+    *   **Heuristic: "Sandbox First"**: Always test your upload on the **Zenodo Sandbox** environment first. Zenodo production uploads are permanent and DOIs cannot be deleted. A mistake here is forever.
     *   **Metadata**: Verify author names and affiliations carefully. This is a common source of post-conference correction requests.
 
 ## 3. Events & Programming
 
 ### Music Program & Concerts
+*   **Goal**: Curate a concert that showcases the intersection of music and technology. It should be an artistic experience, not just a technical demo.
+*   **Mental Models**:
+    *   **"The Tech Rider Trap"**: Musicians will ask for the moon. Your job is to negotiate them down to what the venue can actually provide.
+    *   **"Concert as Research"**: Encourage submissions that explain *how* the technology influenced the art (e.g., lecture-recitals).
 *   **Curatorial Focus**:
-    *   **MIR Integration**: Emphasize MIR integration as central to artistic merit. Submissions should demonstrate how technology shapes the art, not just use it as a prop.
-    *   **Lecture-Concert**: Encourage formats where artists explain their tech/process (1-2 mins) before performing.
-*   **Format & Logistics**:
-    *   **Duration**: Set strict duration limits (e.g., <8 mins) to accommodate more performances and keep the audience engaged.
-    *   **Tech Support**: Provide clear tech support/resources (PA, projector, basic backline) to lower barriers for performers. Request tech riders early.
-*   **Inclusivity**:
+    *   **MIR Integration**: Emphasize MIR integration as central to artistic merit.
+    *   **Format**: "Lecture-Concert" formats (1-2 min talk + performance) work well to bridge the gap.
+*   **Logistics**:
+    *   **Duration**: Set strict duration limits (e.g., <8 mins) to accommodate more performances.
+    *   **Tech Support**: Provide clear tech support/resources (PA, projector, basic backline) to lower barriers. Request tech riders early.
+*   **Inclusivity & Integration**:
     *   **Grants**: Use grants to promote diversity (geography, experience, need).
     *   **Waivers**: Explicitly state waiver policies in the CFP. Don't leave it ambiguous; artists often assume waivers are automatic.
-*   **Integration**: Consider integrating with other events like Jam Sessions or Rencon to increase visibility and cross-pollination.
+    *   **Cross-Pollination**: Consider integrating with other events like Jam Sessions or Rencon to increase visibility.
+*   **Key Decisions & Trade-offs**:
+    *   **Submission Anonymity**:
+        *   *Option A (Anonymous)*: Reduces bias but complicates review (hard to anonymize performances).
+        *   *Option B (Non-Anonymous)*: Builds community but risks bias. *Recommendation*: Non-anonymous with light review is often sufficient for artistic tracks.
+    *   **Waiver Policy**:
+        *   *Context*: Musicians often assume acceptance = free ticket.
+        *   *Trade-off*: Automatic waivers increase participation but hurt budget. No waivers risks dropping high-quality acts.
+        *   *Recommendation*: Be explicit. Consider "Need-based" waivers rather than "Automatic" to balance budget.
 
 ### Tutorials
-*   **Content Strategy**:
-    *   **Theme**: Align with conference theme but encourage introductory and inclusive topics to broaden appeal.
-    *   **Selection**: Use weighted criteria (relevance, diversity, clarity). Select 2+ chairs from different backgrounds (industry/academia) to ensure balanced selection.
+*   **Goal**: Provide educational value. Bridge the gap for newcomers (introductory) or deepen knowledge for experts (advanced).
+*   **Mental Models**:
+    *   **"The Classroom"**: It's not a keynote. It's a class. Interaction, exercises, and clear learning outcomes are key.
+    *   **"Diversity of Levels"**: Ensure you have a mix of "Intro to X" and "Advanced Y".
 *   **Hybrid Delivery**:
     *   **Guidelines**: Provide clear guidelines for hybrid setups. At least one presenter should ideally be in-person.
     *   **Tech**: Ensure the venue has adequate AV for hybrid interaction (screens, mics for remote Q&A).
 *   **Consent & Archiving**:
     *   **Timing**: Obtain recording/sharing consent **DURING** the proposal phase. Retroactive consent gathering is slow and painful.
-    *   **Distinction**: Distinguish between "recording for conference" and "public YouTube archiving".
+    *   **Distinction**: Be clear about the different levels of consent, such as recording for internal conference use versus public archiving on platforms like YouTube.
+*   **Key Decisions & Trade-offs**:
+    *   **Submission Format**:
+        *   *Option A (Email)*: Simple for low volume (6-10 proposals).
+        *   *Option B (Platform)*: Scales better but adds overhead. *Recommendation*: Email is fine for <20 proposals.
+    *   **Scheduling**:
+        *   *Option A (Pre-conference)*: Avoids conflicts with main track. *Recommendation*: Standard practice.
+        *   *Option B (Integrated)*: Higher attendance but competes with papers.
 
 ### Late Breaking Demos (LBD)
-*   **Format**: In-person poster session is the standard. It's a low-barrier entry for prototypes and early-stage work.
-*   **Capacity**:
-    *   **Calculation**: Define capacity based on venue limits (boards * density * safety margin). Don't just pick a number.
+*   **Goal**: Low-barrier entry for prototypes and early-stage work.
+*   **Capacity Planning**:
+    *   **Formula**: Capacity = (Venue Boards) × (Density Factor) × (Safety Margin). Don't just pick a number.
     *   **Overflow**: Have a plan for overflow (e.g., waitlist, second session).
-*   **System**:
-    *   **Transparency**: OpenReview is recommended for transparency.
-    *   **Screening**: Choose between Rolling (smooths load) or Batch (concentrates load) screening. Rolling is better for managing capacity but requires constant attention.
+*   **Screening Models**:
+    *   **Rolling**: Smooths workload, fast answers, but risks "first-come" bias.
+    *   **Batch**: Fairer comparison, but concentrates workload.
 *   **Deliverables**: Require Poster (A0) and Thumbnail. Video is optional but good for archiving.
 
 ### Unconference
@@ -203,52 +240,73 @@ This document outlines the timeless guidelines, standard procedures, and best pr
 *   **Logistics**:
     *   **Noise**: Separate rooms are crucial to reduce noise bleed between groups.
     *   **Timing**: Evening timing with food/drinks often improves engagement and "loosens" the atmosphere.
-*   **Follow-up**: Capture summaries and continue discussions on Slack to give the ideas a life beyond the session.
 
 ### Industry & Sponsorship
-*   **Sponsorship Strategy**:
-    *   **Tiers**: Define clear tiers and benefits (registrations, booths, logo placement).
-    *   **Coordination**: Coordinate closely with Industry Chairs. Often these roles overlap or require constant sync.
-*   **Industry Events**:
-    *   **Booths**: Use raffles for fair assignment if space is limited.
-    *   **Job Boards**: Promote widely. Consider privacy (self-hosted PDFs vs. hosted platforms).
-    *   **Presentations**: Standardize formats and lengths (e.g., 8 mins Platinum, 4 mins Silver) to simplify operations.
-    *   **Lightning Talks**: Great for engagement (1-min, 1-slide). Keeps the energy high and gives visibility to many sponsors.
+*   **Goal**: Bridge MIR research with practical applications.
+*   **Event Formats**:
+    *   **Dedicated Sessions**: High focus, but competes with other tracks if parallel.
+    *   **Integrated**: Industry talks mixed with papers. High exposure, but risks dilution.
+    *   **Lightning Talks**: Great for engagement (1-min, 1-slide). Keeps the energy high.
+*   **Job Boards**:
+    *   **Privacy**: Promote widely but consider privacy (self-hosted PDFs vs. hosted platforms).
+    *   **Access**: Decide if access is tiered (Platinum only) or open.
+*   **Key Decisions & Trade-offs**:
+    *   **Tiers vs Flat**:
+        *   *Option A (Tiered)*: Allows scaling (Platinum/Gold/Silver). *Recommendation*: Standard.
+        *   *Option B (Flat)*: Simplifies sales but leaves money on the table.
+    *   **Benefit Delivery**:
+        *   *Option A (Direct)*: Organizers handle registrations/logos. *Recommendation*: High control, high effort.
+        *   *Option B (Self-Serve)*: Sponsors manage their own portals. Low effort, but risk of non-compliance.
 
 ## 4. Community & Support
 
 ### Diversity, Equity, & Inclusion (DEI)
-*   **Mental Model: "The Matchmaker Hack"**:
-    *   **Problem**: You will always have more mentees than mentors.
-    *   **Solution**: Don't limit yourself to the signed-up mentor pool. **Cold-email authors** of papers relevant to a mentee's interest. Most are flattered and willing to do a one-off chat.
-    *   **Philosophy**: Mentoring doesn't always mean "Senior Professor teaching Student". "Peer Mentoring" (connecting two students working on similar topics) is highly valuable.
-*   **Accessibility**:
-    *   **Data Collection**: Ask for access needs *during registration*, not after.
-    *   **Quiet Rooms**: Mandatory. Conferences are overwhelming.
+*   **Goal**: Promote equitable access, safety, and inclusion. You are the conscience of the conference.
+*   **Mental Models**:
+    *   **"Cross-Functional Consultants"**: You don't own every event, but you advise every chair (e.g., telling Local Org about quiet rooms).
+    *   **"Opt-Out by Default"**: For privacy (photos, lists), make safety the default.
+    *   **"The Matchmaker Hack"**: Don't limit mentoring to the signed-up pool. Cold-email authors of relevant papers to mentor students.
 *   **Core Practices**:
-    *   **Code of Conduct (CoC)**: Publish a short, accessible CoC. Designate named contacts (at least 2, diverse genders) and an anonymous reporting form.
-    *   **Photo Consent**: Use simple visual indicators (e.g., colored lanyards or stickers) for opt-out. Communicate this policy clearly to all attendees and photographers.
-*   **Outreach**:
-    *   **Coordination**: Coordinate with Newcomer and WIMIR organizers to ensure their events are supported and promoted.
-    *   **Integration**: DEI is not a standalone event; it should be embedded in all aspects (e.g., accessible slides, diverse session chairs).
+    *   **Code of Conduct (CoC)**: Publish a short, accessible CoC. Designate named contacts.
+    *   **Photo Consent**: Use simple visual indicators (e.g., colored lanyards) for opt-out.
+    *   **Quiet Rooms**: Mandatory. Conferences are overwhelming.
 
-### Volunteers / Travel Grants
-*   **The "Critical Path" Principle**:
-    *   **Concept**: Not all volunteer shifts are equal. "Checking badges" is low-risk. "Managing Presentation Slides" is critical.
-    *   **Action**: Assign your most **tech-savvy** and reliable volunteers to the Audio/Visual shifts. Do not randomize this assignment.
-*   **Shift Management**:
-    *   **The "Handover"**: Volunteers are doing this for the first time. Schedule a 15-minute overlap between shifts so Volunteer A can teach Volunteer B the ropes.
-    *   **No-Shows**: Expect 10-20% drop-off. Over-recruit.
+### Volunteers
+*   **Goal**: Mobilize community members to support operations.
+*   **Mental Models**:
+    *   **"The Critical Path"**: Assign your most **tech-savvy** volunteers to Audio/Visual shifts. Do not randomize this.
+    *   **"The Handover"**: Schedule a 15-minute overlap between shifts for knowledge transfer.
+    *   **"The No-Show Factor"**: Expect a 10-20% drop-off. Over-recruit to ensure you have coverage when people get sick or tired.
+*   **Role Definitions**:
+    *   **Specialized**: Specific roles (e.g., "AV Tech", "Registration"). Efficient but harder to schedule.
+    *   **General**: "Floater" roles. Flexible but may lack specific skills.
+*   **Shift Scheduling**:
+    *   **One-day Shifts**: Volunteer works 1 full day, free for rest. Easier to schedule and prevents burnout.
+    *   **Distributed Shifts**: 2 hours every day. Harder to schedule.
+*   **Recruitment & Training**:
+    *   **Selection**: Balance between local students (logistics/language) and general attendees (community vibe).
+    *   **Manuals**: Provide detailed manuals and checklists for each role. Don't rely on verbal briefing.
+    *   **Briefing**: Hold an on-site briefing before the conference starts.
+*   **Benefits**:
+    *   **Standard**: Free registration is the standard benefit.
+    *   **Bonus**: Accommodation support is a nice bonus if the budget allows, but prioritize grants for those in need.
 
 ### Travel Grants
 *   **Criteria & Scoring**:
-    *   **Rubrics**: Establish transparent, weighted scoring rubrics (e.g., +1 for Student, +1 for LMIC, +1 for First-time). This reduces bias and makes decisions defensible.
-    *   **Categories**: Consider separate pools for Authors, WIMIR, and Diversity to ensure balanced support.
+    *   **Rubrics**: Establish transparent, weighted scoring rubrics (e.g., +1 for Student, +1 for LMIC).
+    *   **Categories**: Consider separate pools for Authors, WIMIR, and Diversity.
 *   **Logistics**:
     *   **Hotels**: Block rooms 6-8 months in advance. Prices skyrocket closer to the date.
     *   **Confirmation**: Use multi-stage confirmation (email + form + LinkedIn if needed) to avoid wasted grants. Ghosting is common.
     *   **Travel Booking**: Consider fixed-amount grants ("up to $N") rather than pre-purchasing tickets. Pre-purchasing is logistically complex and budget-unpredictable.
     *   **Accommodation**: Explicitly state that accommodation grants are for **shared twin rooms**. Manage pairings carefully (collect preferences).
+*   **Key Decisions & Trade-offs**:
+    *   **Travel Model**:
+        *   *Option A (Pre-purchase)*: Guaranteed attendance but administrative nightmare.
+        *   *Option B (Stipend/Reimbursement)*: Easier admin but requires recipient to front cash (barrier for some). *Recommendation*: Fixed-amount stipend if university rules allow, or agency for critical cases only.
+    *   **Allocation Logic**:
+        *   *Option A (First-come)*: Fast but unfair.
+        *   *Option B (Ranked)*: Fairer but slower. *Recommendation*: Ranked, with a waitlist for "ghosts".
 
 ### Newcomer Initiatives
 *   **Mentoring**:
@@ -258,53 +316,43 @@ This document outlines the timeless guidelines, standard procedures, and best pr
     *   **Concept**: Small groups ("squads") of newcomers led by a mentor are often more effective than 1:1 mentoring.
     *   **Catalyst**: Providing a free meal (lunch) for squads is a high-impact, low-cost way to foster bonding. It lowers the barrier for meeting up.
 
-### Volunteer Management
-*   **Recruitment**:
-    *   **Roles**: Use clear role descriptions (e.g., "Session Runner", "Registration Desk").
-    *   **Selection**: Balance between local students (logistics) and general attendees (community).
-*   **Shifts**:
-    *   **Duration**: One-day shifts are often better than multi-day. It allows volunteers to be "on duty" for one day and "attendees" for the rest, preventing burnout.
-*   **Training**:
-    *   **Manuals**: Provide detailed manuals and checklists for each role.
-    *   **Briefing**: Hold an on-site briefing before the conference starts.
-*   **Benefits**:
-    *   **Standard**: Free registration is the standard benefit.
-    *   **Bonus**: Accommodation support is a nice bonus if the budget allows, but prioritize grants for those in need.
-
 ## 5. Communication & Operations
 
 ### Website
 *   **Mental Model: "The Content Pipeline"**:
-    *   **Problem**: Web Chairs are developers, not copywriters. They shouldn't be writing text.
+    *   **Problem**: Web Chairs are developers, not copywriters.
     *   **Solution**: Chairs draft content in **Google Docs**. Once approved, it is handed to the Web Chair for implementation.
     *   **Heuristic**: "CSV for Tables". If you have a list of 20 tutorials, give the Web Chair a CSV, not a PDF or a Word doc.
 *   **Design**:
-    *   **The "Reference Principle"**: Don't reinvent the wheel. Copy the menu structure and page layout of the *previous year's* website. It is battle-tested.
-    *   **Mobile First**: 50% of attendees will check the schedule on their phone while walking to the venue.
-*   **Lifecycle Management**:
-    *   **Pre-Conference**: Focus on "Call for Participation", "Submission", and "Registration".
-    *   **During Conference**: Switch to "Live" mode (schedule, links, daily updates).
-    *   **Post-Conference**: Plan the transition to "Archive" mode in advance. The site should shift to showing awards, proceedings, and videos within 1-2 weeks. Don't leave a "Welcome!" page up for months after the event.
+    *   **"The Reference Principle"**: Copy the menu structure of the previous year's website.
+    *   **Mobile First**: 50% of attendees will check the schedule on their phone.
+*   **Lifecycle**:
+    *   **Pre-Conference**: Focus on CFP and Registration.
+    *   **During**: Switch to "Live" mode (schedule, links).
+    *   **Post**: Transition to "Archive" mode (Awards, Proceedings) within 2 weeks. Don't leave a "Welcome!" page up for months after the event.
 *   **Analytics**: Use tools like Google Analytics to track usage. This helps justify budget for web design and informs future navigation improvements.
 
 ### Social Media
 *   **Mental Model: "The Waterfall Strategy"**:
-    *   **Problem**: Announcing everything at once (CFP, Grants, Tutorials) causes information overload.
-    **Solution**: Release announcements sequentially over a week.
+    *   **Problem**: Announcing everything at once causes information overload.
+    *   **Solution**: Release announcements sequentially over a week:
         1.  **Save the Date** (General awareness)
         2.  **Major Program** (Tutorials/Keynotes)
         3.  **Support** (Grants - critical for inclusion)
         4.  **Urgent Calls** (Music/LBD with upcoming deadlines)
+*   **Workload**:
+    *   **Nature**: Lightweight but requires consistency. It is "single-directional" (broadcasting), unlike the high-interaction demands of other roles.
+    *   **Passion**: Requires someone who genuinely cares about the community vibe.
 *   **The "Linkage Rule"**:
     *   **Concept**: Every post should link to a related opportunity.
     *   **Example**: "Call for Music" post should *also* mention "Grant Applications Open" because artists often need funding.
-*   **Strategy**:
-    *   **Platforms**: Use a mix (Twitter/X, LinkedIn, Instagram, Facebook) to reach different demographics. LinkedIn is growing for professional networking; Instagram for visuals.
+*   **Platform Strategy**:
+    *   **Multi-platform**: Broad reach (Twitter, LinkedIn, Insta, FB), but high maintenance.
+    *   **Focused**: Pick 1-2 key platforms.
+    *   **Design**: Create templates that work across all platforms (e.g., 4:3 ratio images often crop well on most feeds).
     *   **Scheduling**: Use event-based scheduling (deadlines, keynotes, awards) rather than daily filler. Quality > Quantity.
-*   **Sponsors**:
-    *   **Integration**: Collect sponsor handles early. Tagging them in relevant posts (e.g., "Thanks to our Platinum sponsors") adds value to their sponsorship.
-*   **Design**:
-    *   **Templates**: Create templates that work across all platforms (e.g., 4:3 ratio images often crop well on most feeds).
+*   **Sponsor Integrations**:
+    *   **Tagging**: Collect sponsor handles early and tag them in relevant posts (e.g., "Thanks to our Platinum sponsors").
 
 ### Registration System
 *   **Integration**:
@@ -315,9 +363,16 @@ This document outlines the timeless guidelines, standard procedures, and best pr
 ### Tech Stack & Tools
 *   **Submission**:
     *   **OpenReview**: Preferred for transparency and modern interface.
-    *   **CMT**: A robust alternative, often cheaper, but less user-friendly.
+    *   **CMT**: Robust alternative, often cheaper, but less user-friendly.
 *   **Communication**:
-    *   **Slack**: The standard for ISMIR. Create separate workspaces for "Organizers" (planning) and "Attendees" (conference).
+    *   **Slack**: The standard for ISMIR. Create separate workspaces for "Organizers" and "Attendees".
 *   **Virtual**:
     *   **Zoom**: Reliable for sessions.
-    *   **YouTube**: Best for streaming and archiving due to familiarity and "DVR" features.
+    *   **YouTube**: Best for streaming and archiving.
+*   **Key Decisions & Trade-offs**:
+    *   **Streaming Model**:
+        *   *Option A (Live)*: High excitement, high risk (tech failures).
+        *   *Option B (Pre-recorded)*: Safe, high quality, but low engagement. *Recommendation*: Live for Keynotes/Orals, Pre-recorded for Posters/Demos.
+    *   **Interaction**:
+        *   *Option A (Chat)*: Low friction, high volume.
+        *   *Option B (Live Q&A)*: High engagement but requires strict moderation. *Recommendation*: Chat for remote attendees, Live Mic for in-person.
