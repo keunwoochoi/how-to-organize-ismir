@@ -104,7 +104,7 @@ graph TD
 This workflow helps a lot during the conference, as there were many last-minute request from the authors, most of them related to updating the materials on the website.
 Anyone who has the permission to edit the spreadsheet can update the data.
 Once it's done, the virtual chairs just need to trigger the workflow to reload the website.
-It's possible to make a script for others to trigger the workflow, to even the workload even more.
+It's possible to create a script for others to trigger the workflow, further evening out the workload.
 
 ### Confidentiality and privacy
 
