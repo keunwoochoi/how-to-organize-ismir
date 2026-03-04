@@ -82,8 +82,29 @@ This way, we can avoid the back-and-forth communication and potential errors in 
 What left for virtual chairs is to check the data and make sure they can be parsed by the website generator, and to update the website when necessary.
 It's helpful to know some Google Sheets cell formulas when filling a large amount of data to save time.
 
+The website deployment workflow is like this:
+
+```mermaid
+graph TD
+    VC(Virtual Chairs)
+    Ch(Other chairs)
+    repo(Miniconf Repo.)
+
+    subgraph Miniconf deployment
+        repo -->|Trigger workflow| B
+        B -->|Generate website| C[GitHub Pages]
+    end
+    VC -->|Update code| repo
+    A[Google Sheets] -->|Pull data| B[GitHub Actions]
+
+    VC -->|Update data| A
+    Ch -->|Update data| A
+```
+
 ### Confidentiality and privacy
 
+Always avoid committing sensitive data, like personal information or proprietary content, to the repository or making them visible to the public.
+In addition to using private repositories, we also use repository secrets to store spreadsheet download credentials, which are only accessible to the GitHub Actions workflow and not visible to anyone else.
 
 ## Slack channel
 
