@@ -101,6 +101,11 @@ graph TD
     Ch -->|Update data| A
 ```
 
+This workflow helps a lot during the conference, as there were many last-minute request from the authors, most of them related to updating the materials on the website.
+Anyone who has the permission to edit the spreadsheet can update the data.
+Once it's done, the virtual chairs just need to trigger the workflow to reload the website.
+It's possible to make a script for others to trigger the workflow, to decentralise the work even more.
+
 ### Confidentiality and privacy
 
 Always avoid committing sensitive data, like personal information or proprietary content, to the repository or making them visible to the public.
