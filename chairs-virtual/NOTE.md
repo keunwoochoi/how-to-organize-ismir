@@ -159,3 +159,22 @@ From the registration data of ISMIR 2025, we see that a month ago before the con
 Future chairs can use this data to decide when to send out the invitations.
 
 ## Live streaming and recording
+
+This year most of the sessions besides tutorials were live-streamed and recorded on [youtube](https://www.youtube.com/@ISMIR2025).
+This was handled by the local team at Daejeon.
+We simply embedded the youtube links on the miniconf website for easy access and announce them on the slack channel.
+The tutorials can be joined via zoom, and the links were shared in the private channels.
+We also use the same google account to monitor the miniconf website activities using Google Analytics.
+
+## Final thoughts
+
+The experience of preparing and running the virtual side of ISMIR 2025 has been quite rewarding, and I learned a few things along the way:
+
+1. Think ahead of participants' and chairs' needs and do as much preparation as possible. This is probably obvious, but it really helps to reduce the workload during the conference, which is already quite busy for everyone. 
+2. Let others know what you can do and provide all the options. Sometimes other chairs may not be aware of the possibilities, so it's important to communicate and let them know. By providing all the options, we can see the whole picture better and come up with better solutions together.
+3. Avoid duplicating similar things. When there are more than one source of truth, which one should we trust? This can lead to confusion and errors. This also strongly related to the previous point, as by communicating effectively, we can avoid creating multiple sources of truth and instead centralise the information in one place.
+4. Make it possible for your colleagues to see what you’re working on. This can help them understand your work better and also provide feedback and suggestions. It doesn't have to be done in a very active way. For example, setting file permissions to team-wide read-only can already help a lot, as it allows others to see if they need to.
+
+The last point was inspired by a recent talk at ADCx Gather 2025 by Andy Normington, and I highly recommend watching the talk if you are working in a team and want to work in an effective way.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hRglC84nWoc?start=25773" title="Andy Normington - Working with the garage door up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
