@@ -1,5 +1,7 @@
 # Virtual Chairs Guide
 
+To see the notes from the virtual chairs of ISMIR 2025, please check [NOTE.md](./NOTE.md).
+
 ## Goal
 The Virtual Program ensures remote participation mirrors in-person experience, providing access, engagement, and inclusivity for global attendees. It extends conference reach through technology, fostering equity and broad community involvement.
 
