@@ -111,7 +111,51 @@ It's possible to create a script for others to trigger the workflow, further eve
 Always avoid committing sensitive data, like personal information or proprietary content, to the repository or making them visible to the public.
 In addition to using private repositories, we also use repository secrets to store spreadsheet download credentials, which are only accessible to the GitHub Actions workflow and not visible to anyone else.
 
-## Slack channel
+## ISMIR Slack workspace
 
+Slack provides a convenient platform for real-time communication and coordination among conference participants.
+We create channels for different purposes, such as general discussion, announcements, and specific topics related to the conference.
+
+A shared oral presentation channel was created for sharing fun facts about the papers in real-time during the oral sessions.
+These were handled by volunteers.
+Each paper also has its own channel for discussions, which can be used by authors and attendees to ask questions and share insights about the paper.
+We utilise the Slack API to automate the creation of channels and adding links to the corresponding page on the miniconf website in the channel description, making it easier for attendees to know what this channel is about.
+The slack channel links for each session and paper are also shown on the miniconf website.
+Dedicated private channels were created for each tutorial, and the attendees who purchased the tutorial were invited to the corresponding channels.
+
+### Inviting attendees
+
+This turns out to be more tricky than we expected.
+We use the email addresses from the registration form to invite attendees to the slack workspace.
+However, two issues arise:
+
+1. The attendee **may not use the same email address** they registered with to join the slack workspace, making it harder to verify their identity and grant them access to the appropriate channels.
+2. Slack invitation link has a maximum number of uses (400) and is below the number of attendees for ISMIR 2025 (600~700), so we need to send multiple invitations. Moreover, before the first batch of invitations are accepted, we cannot send the next batch of invitations, which makes it hard to invite all attendees in a timely manner.
+
+Both issues cannot be fully addressed using the current slack invitation system.
+The best we can do is asking attendees to use the same email address for registration in the invitation email, and by providing clear instructions on how to join the slack workspace.
+The second issue can be somewhat mitigated by sending out invitations earlier, probably one month before the conference, so that we have more time for each batch to be processed.
+
+### Inviting tutorial attendees
+
+The first issue in the previous section directly affects the tutorial attendees.
+Since quite a huge portion of the tutorial attendees did not join the slack with their registered email address, we had to manually check and identify them in the slack workspace, and then add them to the corresponding tutorial channels.
+Some tutorial attendees joined the slack right before or even during the tutorial.
+Such help requests increased quickly during the tutorial days and we have to accommodate them immediately.
+
+To reduce the hassle for both attendees and virtual chairs in the future, we recommend utilising the **default channels** feature in Slack, which allows us to automatically add new members to specific channels upon joining the workspace.
+Specifically, we suggest the following setup:
+
+1. Create slack channels and add the tutorial channels to the default channels list.
+2. Send out the slack invitation email to all tutorial attendees.
+3. Once enough tutorial attendees have joined the slack workspace, remove the tutorial channels from the default channels list.
+4. Send out the slack invitation email to all conference attendees.
+
+This should reduce the manual workload for virtual chairs.
+The timeline shown in [Timeline suggestions](#timeline-suggestions) section is based on this setup.
+However, how early the invitation should be sent out is still a question, as the registration will be open until the conference, and we don't want to send the links too early before enough attendees have registered.
+From the registration data of ISMIR 2025, we see that a month ago before the conference, around 72% of the attendees have registered; two weeks before the conference, around 84% of the attendees have registered; and one week before the conference, around 93% of the attendees have registered.
+(Here the percentage is calculated as $\frac{\text{registered attendees}}{\text{total attendees at the conference}} \times 100\%$.)
+Future chairs can use this data to decide when to send out the invitations.
 
 ## Live streaming and recording
