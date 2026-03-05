@@ -177,4 +177,4 @@ The experience of preparing and running the virtual side of ISMIR 2025 has been 
 
 The last point was inspired by a recent talk at ADCx Gather 2025 by Andy Normington, and I highly recommend watching the talk if you are working in a team and want to work in an effective way.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hRglC84nWoc?start=25773" title="Andy Normington - Working with the garage door up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hRglC84nWoc?si=vapQGdfuyg5CSM-0&amp;start=25774" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
