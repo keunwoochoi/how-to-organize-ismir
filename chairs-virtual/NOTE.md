@@ -119,7 +119,7 @@ We create channels for different purposes, such as general discussion, announcem
 A shared oral presentation channel was created for sharing fun facts about the papers in real-time during the oral sessions.
 These were handled by volunteers.
 Each paper also has its own channel for discussions, which can be used by authors and attendees to ask questions and share insights about the paper.
-We utilise the Slack API to automate the creation of channels and adding links to the corresponding page on the miniconf website in the channel description, making it easier for attendees to know what this channel is about.
+We utilise the Slack API to automate the creation of channels and adding links to the corresponding miniconf page in the channel description, making it easier for attendees to know what this channel is about.
 The slack channel links for each session and paper are also shown on the miniconf website.
 Dedicated private channels were created for each tutorial, and the attendees who purchased the tutorial were invited to the corresponding channels.
 
@@ -133,7 +133,7 @@ However, two issues arise:
 2. Slack invitation link has a maximum number of uses (400) and is below the number of attendees for ISMIR 2025 (600~700), so we need to send multiple invitations. Moreover, before the first batch of invitations are accepted, we cannot send the next batch of invitations, which makes it hard to invite all attendees in a timely manner.
 
 Both issues cannot be fully addressed using the current slack invitation system.
-The best we can do is asking attendees to use the same email address for registration in the invitation email, and by providing clear instructions on how to join the slack workspace.
+The best we can do is putting a reminder in the invitation email that asks attendees to use the same email address for registration and providing clear instructions on how to join the slack workspace.
 The second issue can be somewhat mitigated by sending out invitations earlier, probably one month before the conference, so that we have more time for each batch to be processed.
 
 ### Inviting tutorial attendees
@@ -141,7 +141,7 @@ The second issue can be somewhat mitigated by sending out invitations earlier, p
 The first issue in the previous section directly affects the tutorial attendees.
 Since quite a huge portion of the tutorial attendees did not join the slack with their registered email address, we had to manually check and identify them in the slack workspace, and then add them to the corresponding tutorial channels.
 Some tutorial attendees joined the slack right before or even during the tutorial.
-Such help requests increased quickly during the tutorial days and we have to accommodate them immediately.
+Such help requests reached its peak on the tutorial days and we have to accommodate them immediately.
 
 To reduce the hassle for both attendees and virtual chairs in the future, we recommend utilising the **default channels** feature in Slack, which allows us to automatically add new members to specific channels upon joining the workspace.
 Specifically, we suggest the following setup:
@@ -168,13 +168,19 @@ We also use the same google account to monitor the miniconf website activities u
 
 ## Final thoughts
 
-The experience of preparing and running the virtual side of ISMIR 2025 has been quite rewarding, and I learned a few things along the way:
+A few things I leanred along the way:
 
 1. Think ahead of participants' and chairs' needs and do as much preparation as possible. This is probably obvious, but it really helps to reduce the workload during the conference, which is already quite busy for everyone. 
 2. Let others know what you can do and provide all the options. Sometimes other chairs may not be aware of the possibilities, so it's important to communicate and let them know. By providing all the options, we can see the whole picture better and come up with better solutions together.
 3. Avoid duplicating similar things. When there are more than one source of truth, which one should we trust? This can lead to confusion and errors. This also strongly related to the previous point, as by communicating effectively, we can avoid creating multiple sources of truth and instead centralise the information in one place.
 4. Make it possible for your colleagues to see what you’re working on. This can help them understand your work better and also provide feedback and suggestions. It doesn't have to be done in a very active way. For example, setting file permissions to team-wide read-only can already help a lot, as it allows others to see if they need to.
 
-The last point was inspired by a recent talk at ADCx Gather 2025 by Andy Normington, and I highly recommend watching the talk if you are working in a team and want to work in an effective way.
+The last point was inspired by a recent talk [Working with the garage door up](https://youtu.be/hRglC84nWoc?t=25774) at ADCx Gather 2025 by Andy Normington, and I highly recommend watching the talk if you are working in a team and want to work in an effective way.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hRglC84nWoc?si=vapQGdfuyg5CSM-0&amp;start=25774" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Lastly, I want to discuss a bit about the role of ISMIR virtual chairs.
+Throughout the preparation, I felt that virtual chairs are somehow similar to a team that makes internal tools for a company, at least in the coordination and communication aspect for miniconf.
+It needs some tech skills that are not too deep but broad, and it also needs to be proactive in understanding the needs of other chairs and providing solutions.
+In addition, there are a great portion of overlap between virtual chairs and web chairs.
+For some information, like the conference schedule, we literally just copy what it is from main conference website to the miniconf website.
+Thus, I think it would be better if the virtual chairs and web chairs can be merged into one role, which is how the ISMIR 2023 organisers did.
+This way, we can have a more streamlined workflow and reduce the communication overhead between different chairs.
