@@ -10,7 +10,7 @@ This document is more of a note for myself and future chairs, rather than a comp
 
 Technically, virtual chairs were responsible for the following two main sites:
 
-1. [Miniconf website](https://ismir2025program.ismir.net/): the main site that host papers and additional materials, programme, and other information about the conference. 
+1. [Miniconf website](https://ismir2025program.ismir.net/): the main site that hosts papers and additional materials, programme, and other information about the conference. 
 2. [Conference slack channel](https://ismir2025.slack.com/): a communication platform for real-time discussions and coordination among participants.
 
 Besides setting them up before the conference start, virtual chairs also had to maintain them during (the most active period) and after (depending on the needs) the conference.
@@ -57,7 +57,7 @@ No separate sponsors page is made, but we direct people to their slack channel f
 ### Hosting
 
 The miniconf website can be made static, so we host it on GitHub Pages.
-It's preferrable if you have GitHub education pack, which is free for academics and can show GitHub pages for private repositories, to maintain data privacy.
+It's preferable if you have GitHub education pack, which is free for academics and can show GitHub pages for private repositories, to maintain data privacy.
 Once the website is set up and ready to be published, request the custom domain `ismir20xxprogram.ismir.net` from the ISMIR Tech Lead (Ajay) and set up the DNS record to point to the GitHub Pages URL.
 
 ### Compiling, updating, and centralising data
@@ -79,7 +79,7 @@ The GitHub Actions workflow pull the latest csv file from Google Sheets when dep
 Manually getting these data from different chairs is time-consuming and error-prone, so it's better to centralise the data collection and maintenance.
 Thus, we made the spreadsheet editable by all chairs, and ask them to update the data in the spreadsheet directly.
 This way, we can avoid the back-and-forth communication and potential errors in data entry.
-What left for virtual chairs is to check the data and make sure they can be parsed by the website generator, and to update the website when necessary.
+What was left for virtual chairs is to check the data and make sure they can be parsed by the website generator, and to update the website when necessary.
 It's helpful to know some Google Sheets cell formulas when filling a large amount of data to save time.
 
 The website deployment workflow is like this:
@@ -101,7 +101,7 @@ graph TD
     Ch -->|Update data| A
 ```
 
-This workflow helps a lot during the conference, as there were many last-minute request from the authors, most of them related to updating the materials on the website.
+This workflow helps a lot during the conference, as there were many last-minute requests from the authors, most of them related to updating the materials on the website.
 Anyone who has the permission to edit the spreadsheet can update the data.
 Once it's done, the virtual chairs just need to trigger the workflow to reload the website.
 It's possible to create a script for others to trigger the workflow, further evening out the workload.
@@ -168,11 +168,11 @@ We also use the same google account to monitor the miniconf website activities u
 
 ## Final thoughts
 
-A few things I leanred along the way:
+A few things I learned along the way:
 
 1. Think ahead of participants' and chairs' needs and do as much preparation as possible. This is probably obvious, but it really helps to reduce the workload during the conference, which is already quite busy for everyone. 
 2. Let others know what you can do and provide all the options. Sometimes other chairs may not be aware of the possibilities, so it's important to communicate and let them know. By providing all the options, we can see the whole picture better and come up with better solutions together.
-3. Avoid duplicating similar things. When there are more than one source of truth, which one should we trust? This can lead to confusion and errors. This also strongly related to the previous point, as by communicating effectively, we can avoid creating multiple sources of truth and instead centralise the information in one place.
+3. Avoid duplicating similar things. When there are more than one source of truth, which one should we trust? This can lead to confusion and errors. This is also strongly related to the previous point, as by communicating effectively, we can avoid creating multiple sources of truth and instead centralise the information in one place.
 4. Make it possible for your colleagues to see what you’re working on. This can help them understand your work better and also provide feedback and suggestions. It doesn't have to be done in a very active way. For example, setting file permissions to team-wide read-only can already help a lot, as it allows others to see if they need to.
 
 The last point was inspired by a recent talk [Working with the garage door up](https://youtu.be/hRglC84nWoc?t=25774) at ADCx Gather 2025 by Andy Normington, and I highly recommend watching the talk if you are working in a team and want to work in an effective way.
